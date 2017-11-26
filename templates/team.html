@@ -1,1 +1,23 @@
 {% extends "layout.html" %}
+
+{% block title %}
+    Team
+{% endblock %}
+
+{% block main %}
+    <img alt="{{ top }}" class="border" src="http://memegen.link/custom/{{ top | urlencode }}/{{ bottom | urlencode }}.jpg?alt=https://i.imgur.com/CsCgN7Ll.png"/>
+    <div class="row">
+        <div class="col-lg-4">
+            <h3>Tyler Tarsi</h3>
+            <p>Tyler is a Junior in Adams studying Applied Mathematics. He is also on the wrestling team.</p>
+            <p>He is from Nazareth, Pennsylvania. CS50 is his second CS course he has taken at Harvard and
+               he has enjoyed his time so far. </p>
+        </div>
+        <div class="col-lg-4">
+            <h3>Aaron Kruk</h3>
+            <p>Aaron is a Junior in Pfoho(lol). He enjoys long walks on the beach and watching the Bears lose every
+            Sunday. He is studying ... "Get what they want to say about themselves"</p>
+        </div>
+        <div class="col-lg-4">.col-lg-4</div>
+    </div>
+{% endblock %}
