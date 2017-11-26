@@ -1,11 +1,6 @@
 # CS50-Final-Project
 CS50 Final Project for Tyler Tarsi, Aaron Kruk, and LJ Barlow.
 
-Test.
+Concentration data taken from Harvard Open Data Project. Link: https://github.com/Harvard-Open-Data-Project/harvard-data/blob/master/concentrations-and-class-enrollment/Concentration%20Data.csv
 
-LJ has been looking small recently.
-This is LJ's attempt
-
-
-
-lets see
+HTML/Flask Skeleton taken from CS50 Finance
