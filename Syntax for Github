@@ -1,0 +1,7 @@
+Syntax for Github
+
+git add . = add new files to repository (tell git to keep track of new file, only need to do once)
+git status = list how many commits ahead or behind of master branch
+git commit -am "Message" = commit changes to file and comment on commit (in message)-local change
+git push = push changes to global
+git pull = update file from global
