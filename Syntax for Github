@@ -5,3 +5,4 @@ git status = list how many commits ahead or behind of master branch
 git commit -am "Message" = commit changes to file and comment on commit (in message)-local change
 git push = push changes to global
 git pull = update file from global
+git log = see all changes
