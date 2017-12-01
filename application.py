@@ -1,8 +1,9 @@
 from cs50 import SQL
-from flask import Flask, flash, redirect, render_template, request, session
+from flask import Flask, flash, redirect, render_template, request, session, jsonify
 from flask_session import Session
 from tempfile import mkdtemp
 from werkzeug.exceptions import default_exceptions
+import json
 
 from helpers import apology
 
@@ -30,6 +31,13 @@ Session(app)
 @app.route("/", methods=["GET"])
 def index():
     return render_template("index.html")
+
+
+@app.route("/data", methods=["GET"])
+def data():
+    with open("scrapers/data.json") as json_data:
+        d = json.load(json_data)
+    return jsonify(d)
 
 
 @app.route("/about", methods=["GET"])
