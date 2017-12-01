@@ -32,11 +32,6 @@ def index():
     return render_template("index.html")
 
 
-@app.route("/data", methods=["GET"])
-def data():
-    return render_template("data.html")
-
-
 @app.route("/about", methods=["GET"])
 def about():
     return render_template("about.html")

@@ -5,7 +5,46 @@
 {% endblock %}
 
 {% block main %}
-
-    This is our CS50 Final Project.
-
+    <div class="container A" id="A">
+        <div class="row">
+            <div class="intro-message">
+                <h1>Harvard Student-Athlete Concentration Optionality</h1>
+                <br>
+                <h3>A Data Driven Analysis</h3>
+                <br>
+                <br>
+                <p>
+                    Add more info here.
+                </p>
+                <br>
+                <ol class="intro-list">
+                    <li>TODO</li>
+                    <li>TODO</li>
+                    <li>TODO</li>
+                </ol>
+                <br>
+                <br>
+                <br>
+                <button class="button btn scrollToB">
+                    <a href="#B">NEXT</a>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="container B" id="B">
+        <div class="row">
+            <h2>What does the concentration data look like over time?</h2>
+        </div>
+        <div class="row selectSection">
+            <div class="filterType">Years</div>
+            <br>
+            <div class="btn-group" role="group">
+                <a href="#B" class="scrollToB btn btn-secondary wide active" id="2010">2010</a>
+                <a href="#B" class="scrollToB btn btn-secondary wide active" id="2010">2011</a>
+                <a href="#B" class="scrollToB btn btn-secondary wide active" id="2010">2012</a>
+                <a href="#B" class="scrollToB btn btn-secondary wide active" id="2010">2013</a>
+                <a href="#B" class="scrollToB btn btn-secondary wide active" id="2010">2014</a>
+            </div>
+        </div>
+    </div>
 {% endblock %}

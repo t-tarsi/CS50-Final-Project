@@ -1,40 +1,28 @@
-nav .navbar-brand
-{
+nav .navbar-brand {
     /* size for brand */
     font-size: xx-large;
 }
 
 /* colors for brand */
-nav .navbar-brand .blue
-{
-    color: #537fbe;
-}
-nav .navbar-brand .red
-{
+nav .navbar-brand .red {
     color: #ea433b;
 }
-nav .navbar-brand .yellow
-{
-    color: #f5b82e;
-}
-nav .navbar-brand .green
-{
-    color: #2e944b;
+
+body,
+html {
+    width: 100%;
+    height: 100%;
 }
 
-main .form-control
-{
-    /* center form controls */
-    display: inline-block;
-
-    /* override Bootstrap's 100% width for form controls */
-    width: auto;
+h1, h2, h3 {
+    text-align: center;
+    font-weight: 300;
 }
 
 main
 {
     /* scroll horizontally as needed */
-    overflow-x: auto;
+    /*overflow-x: auto;*/
 
     /* center contents */
     text-align: center;
@@ -46,8 +34,90 @@ main img
     max-width: 100%;
 }
 
-/* added this to bold the footer of index page */
-tfoot
-{
-    font-weight: bold;
+.intro-list {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+li {
+    display: list-item;
+    text-align: inherit;
+}
+
+button {
+  margin: 0 auto;
+  background-color: #868e96;
+}
+button>a {
+  color: white;
+}
+button:hover, button>a:hover {
+  text-decoration: none;
+  filter: brightness(90%);
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: auto;
+    touch-action: auto;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.container.A {
+    background-color: #f0f0f0;
+    min-height: 100%;
+    min-width: 100%;
+    padding: 50px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+
+.container.B {
+    min-height:100%;
+    min-width: 100%;
+    text-align: center;
+    padding: 50px;
+}
+
+.container.start {
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    max-width: 1000px;
+}
+
+.selectSection {
+    margin: 20px 0;
+}
+
+.btn-group {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.filterType {
+  margin: 5px 0
+}
+
+.centered {
+  text-align: center;
 }
