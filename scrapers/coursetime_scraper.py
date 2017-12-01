@@ -33,6 +33,13 @@ for start in range(0, 1400, 100):
             times.append(time)
             marker += 1
 
+        elif ";" in time:
+            days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+            for x in range(0,5):
+                time = time.replace(days[x], '')
+            times.append(time)
+            marker += 1
+
         else:
             timeless_courses.append(marker)
             marker += 1
@@ -53,13 +60,14 @@ for start in range(0, 1400, 100):
 
         else:
             marker += 1
-
 lst = []
 
-for x in range(0,1068):
+# Add dicts to list
+for x in range(0,1096):
     data = {}
     data.update({'Name': courses[x], 'Department': departments[x], 'Time': times[x]})
     lst.append(data)
 
+# Convert to json and save to text file
 with open('data.txt', 'w') as outfile:
     json.dump(lst, outfile)
