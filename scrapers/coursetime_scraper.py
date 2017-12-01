@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
+import json
 
 departments = []
 courses = []
@@ -52,9 +53,13 @@ for start in range(0, 1400, 100):
 
         else:
             marker += 1
-data = {}
+
 lst = []
 
-for x in range(0,1067):
-    data[str(('Name', "Department", "Time"))] = courses[x], departments[x], times[x]
+for x in range(0,1068):
+    data = {}
+    data.update({'Name': courses[x], 'Department': departments[x], 'Time': times[x]})
+    lst.append(data)
 
+with open('data.txt', 'w') as outfile:
+    json.dump(lst, outfile)
