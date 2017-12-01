@@ -51,3 +51,161 @@ tfoot
 {
     font-weight: bold;
 }
+
+.panel-body a>img,
+.panel-body img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border: 0;
+}
+
+:root
+{
+  --colorLightest: #3DC3CC;
+  --colorLight: #00BFCC;
+  --colorMedium: #2D8E95;
+  --colorDark: #00777F;
+  --colorDarkest: #00484C;
+  --colorShame: #ff7575;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+h1,h2,h3 {
+  text-align: center;
+  font-weight: 300;
+}
+
+.header,
+.footer {
+    padding: 20px;
+}
+.container-fluid {
+  width: 100%;
+  padding: 50px;
+}
+
+.container-fluid.A {
+  min-height: 100%;
+  padding-top: 100px;
+  text-align: center;
+}
+.container-fluid.B {
+  min-height: 100%;
+}
+
+button {
+  margin: 0 auto;
+  background-color: var(--colorMedium);
+}
+button>a {
+  color: white;
+}
+button:hover, button>a:hover {
+  text-decoration: none;
+  filter: brightness(90%);
+}
+
+.btn-group>a
+{
+  font-size: 12px;
+  display: inline-block;
+  text-decoration: none;
+  color: var(--colorMedium);
+  border-color: #ddd;
+  border-width: 1px;
+  background-color: #f0f0f0;
+  padding: 3px 10px;
+  margin: 0 4px 4px 4px;
+  border-radius: 12px !important;
+}
+.btn-group>a:hover
+{
+  color: var(--colorDark);
+}
+.active
+{
+    background-color: #cdcdcd;
+    box-shadow: none;
+    color: var(--colorDark);
+    outline: none;
+}
+
+.container-fluid.A
+{
+  background-color: #f0f0f0;
+  min-height: 100%;
+  min-width: 100%;
+  text-shadow: white 2px 2px solid;
+}
+.container-fluid.footer
+{
+  background-color: #f0f0f0;
+}
+.container-fluid.C
+{
+  background-color: #f0f0f0;
+  min-width: 100%;
+}
+.container-fluid.D
+{
+  min-width: 100%;
+}
+.container-fluid.footer{
+  background-color: #f0f0f0;
+  text-align: left;
+}
+
+.bar
+{
+  fill: colorMedium;
+}
+
+.chart-title
+{
+  font-size: 15px;
+  font-weight: 400;
+}
+
+svg text, .axis-label, .label
+{
+  fill: #666;
+  font-size: 12px;
+  font-weight: 300;
+}
+.label-white
+{
+ fill: #eee;
+ font-size: 11px;
+}
+
+.axis path,
+.axis line
+{
+  fill: none;
+  stroke: #999;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+path.lineChart
+{
+    stroke: var(--colorDark);
+    stroke-width: 2;
+    fill: none;
+}
+.lineRef
+{
+  stroke: red;
+}
