@@ -1,0 +1,5372 @@
+[
+  {
+    "Name": " Poetry in America",
+    "Department": "AESTHINT",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Poetry in America",
+    "Department": "AESTHINT",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Poetry in America",
+    "Department": "AESTHINT",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Rx: Arts for Global Health",
+    "Department": "AESTHINT",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Visual Culture of the Ottoman Empire Between East and West (15th-17th Centuries)",
+    "Department": "AESTHINT",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " The Cosmos of the Divine Comedy",
+    "Department": "AESTHINT",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " American Dreams from Scarface to Easy Rider",
+    "Department": "AESTHINT",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Literature and Art in an Era of Crisis and Oppression: Modernism in Eastern Europe",
+    "Department": "AESTHINT",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " East Asian Cinema",
+    "Department": "AESTHINT",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Race and Modernity: W. E. B. Du Bois, James Baldwin and Lorraine Hansberry",
+    "Department": "AFRAMER",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " The Color Line and Freedom Movements, in Geopolitical Context",
+    "Department": "AFRAMER",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Contemporary African Music: Global and Local",
+    "Department": "AFRAMER",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to African Studies",
+    "Department": "AFRAMER",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " The History of African Americans From the Slave Trade to the Civil War",
+    "Department": "AFRAMER",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Vision and Justice: The Art of Citizenship",
+    "Department": "AFRAMER",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Literature, Oratory, Popular Music and the Politics of Liberation",
+    "Department": "AFRAMER",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Film, Fiction and Diaspora",
+    "Department": "AFRAMER",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Race, Class and the Making of American Religion",
+    "Department": "AFRAMER",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Childhood in African America",
+    "Department": "AFRAMER",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " African Religions",
+    "Department": "AFRAMER",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The Paradox of the Garden: Good and Evil in Paradise",
+    "Department": "AFRAMER",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Poverty, Race, and Health",
+    "Department": "AFRAMER",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to African Languages and Cultures",
+    "Department": "AFRAMER",
+    "Time": "11:00 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Akkadian Epics and Wisdom Texts",
+    "Department": "AKKAD",
+    "Time": "1:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Akkadian Literary Texts",
+    "Department": "AKKAD",
+    "Time": "10:30 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Introduction to Mesopotamian Religion",
+    "Department": "ANE",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Ancient Lives",
+    "Department": "ANE",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Introduction to the Hebrew Bible/Old Testament 1: Pentateuch and Former Prophets",
+    "Department": "ANE",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " The Birth of Biblical Religion",
+    "Department": "ANE",
+    "Time": "8:30 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Readings in the Septuagint",
+    "Department": "ANE",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " The Fundamentals of Archaeological Methods & Reasoning",
+    "Department": "ANTHRO",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Origins of the Food We Eat",
+    "Department": "ANTHRO",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Urban Revolutions: Archaeology and the Investigation of Early States",
+    "Department": "ANTHRO",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " The Archaeology of Ancient China",
+    "Department": "ANTHRO",
+    "Time": "10:30 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Quests for Wisdom: Religious, Moral and Aesthetic Experiences in the Art of Living",
+    "Department": "ANTHRO",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Water, Infrastructure, and Meaning",
+    "Department": "ANTHRO",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Ethnographic Research Methods",
+    "Department": "ANTHRO",
+    "Time": "1:30 p.m. - 3:29 p.m."
+  },
+  {
+    "Name": " (Mis)Understanding Islam Today",
+    "Department": "ANTHRO",
+    "Time": "3:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " The City Jail: Race and Incarceration in the United States",
+    "Department": "ANTHRO",
+    "Time": "12:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Housing and Heritage: Conflicts over Urban Space",
+    "Department": "ANTHRO",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " The Cinema of Frederick Wiseman I: Towards a Visual Anthropology of Institutions and Power",
+    "Department": "ANTHRO",
+    "Time": "12:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Probing the Polity: Alternatives to the State",
+    "Department": "ANTHRO",
+    "Time": "10:00 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Statistical Inference for Scientists and Engineers",
+    "Department": "APMTH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Complex Analysis and Series Expansions for Applications to Science, Engineering and Finance",
+    "Department": "APMTH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Applied Algebra",
+    "Department": "APMTH",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to Scientific Computing",
+    "Department": "APMTH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Mathematical Modeling",
+    "Department": "APMTH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Introduction to Optimization: Models and Methods",
+    "Department": "APMTH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Feedback Control Systems: Analysis and Design",
+    "Department": "APMTH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Mathematical Methods in the Sciences",
+    "Department": "APMTH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Supervised Reading and Research",
+    "Department": "APMTH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Thesis Research",
+    "Department": "APMTH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Introduction to Solid State Physics",
+    "Department": "APPHY",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Physics as a Foundation for Science and Engineering, Part I",
+    "Department": "APPHY",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Upper-Level Classical Arabic I",
+    "Department": "ARABIC",
+    "Time": "8:30 a.m. - 10:29 a.m."
+  },
+  {
+    "Name": " Upper-Level Modern Arabic l",
+    "Department": "ARABIC",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Upper-Level Modern Arabic l",
+    "Department": "ARABIC",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Elementary Arabic",
+    "Department": "ARABIC",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Elementary Arabic",
+    "Department": "ARABIC",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Elementary Arabic",
+    "Department": "ARABIC",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Elementary Arabic",
+    "Department": "ARABIC",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Elementary Arabic",
+    "Department": "ARABIC",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Elementary Arabic",
+    "Department": "ARABIC",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate Arabic I",
+    "Department": "ARABIC",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate Arabic I",
+    "Department": "ARABIC",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Arabic I",
+    "Department": "ARABIC",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Targumic Aramaic",
+    "Department": "ARAMAIC",
+    "Time": "2:30 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Exoplanets",
+    "Department": "ASTRON",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Galactic and Extragalactic Astronomy",
+    "Department": "ASTRON",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Celestial Navigation",
+    "Department": "ASTRON",
+    "Time": " 11:30 a.m. - 1:29 p.m.;  7:00 p.m. - 9:59 p.m."
+  },
+  {
+    "Name": " Astrosociology",
+    "Department": "ASTRON",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Research Tutorial in Astrophysics",
+    "Department": "ASTRON",
+    "Time": " 1:00 p.m. - 2:29 p.m.;  5:30 p.m. - 7:29 p.m."
+  },
+  {
+    "Name": " Senior Thesis in Astrophysics",
+    "Department": "ASTRON",
+    "Time": "1:15 p.m. - 2:14 p.m."
+  },
+  {
+    "Name": " Physiological Systems Analysis",
+    "Department": "BE",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Cellular Engineering",
+    "Department": "BE",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Quantitative Genomics",
+    "Department": "BIOPHYS",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to Catalan",
+    "Department": "CATALAN",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Intermediate Catalan",
+    "Department": "CATALAN",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " History and Philosophy of Experimentation in Biology",
+    "Department": "CELLBIO",
+    "Time": "6:30 p.m. - 8:29 p.m."
+  },
+  {
+    "Name": " The Celts",
+    "Department": "CELTIC",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Finn: The Great Gaelic Hero",
+    "Department": "CELTIC",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Experimental Chemistry and Chemical Biology",
+    "Department": "CHEM",
+    "Time": "12:00 p.m. - 1:29 p.m."
+  },
+  {
+    "Name": " Chemical Biology Towards Precision Medicine",
+    "Department": "CHEM",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Advanced Organic Chemistry",
+    "Department": "CHEM",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Experimental Inorganic Chemistry",
+    "Department": "CHEM",
+    "Time": "1:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Advanced Inorganic Chemistry",
+    "Department": "CHEM",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " The Quantum World",
+    "Department": "CHEM",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Frontiers in Biophysics",
+    "Department": "CHEM",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Principles of Organic Chemistry",
+    "Department": "CHEM",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Chemical Biology",
+    "Department": "CHEM",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Organic Chemistry",
+    "Department": "CHEM",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Introduction to Literary Chinese",
+    "Department": "CHNSE",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Intermediate Literary Chinese",
+    "Department": "CHNSE",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Intermediate Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Intermediate Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Pre-Advanced Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Pre-Advanced Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Pre-Advanced Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Pre-Advanced Modern Chinese for Heritage Students",
+    "Department": "CHNSE",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Pre-Advanced Modern Chinese for Heritage Students",
+    "Department": "CHNSE",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Advanced Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Advanced Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Advanced Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Advanced Conversational Chinese",
+    "Department": "CHNSE",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Advanced-High Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Elementary Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Elementary Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Elementary Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Elementary Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Elementary Modern Chinese",
+    "Department": "CHNSE",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Elementary Chinese for Advanced Beginners",
+    "Department": "CHNSE",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Elementary Chinese for Advanced Beginners",
+    "Department": "CHNSE",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Introduction to Premodern Chinese Literature",
+    "Department": "CHNSLIT",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": "HEB 120A - Intermediate Classical Hebrew I",
+    "Department": "CLAS",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": "HEB 130AR - Rapid Reading Classical Hebrew I",
+    "Department": "CLAS",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": "HEB AA - Elementary Classical Hebrew",
+    "Department": "CLAS",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": "STDY 140 - Stories from Byzantium: Medieval Greek Literature in Translation",
+    "Department": "CLS",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": "STDY 141 - Storytelling and Deceptive Narration at Rome and Beyond",
+    "Department": "CLS",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": "STDY 152 - The Construction of Gender and Sexuality in Ancient Greece",
+    "Department": "CLS",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": "STDY 97A - Greek Culture and Civilization",
+    "Department": "CLS",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Comparing, Connecting, Compos(t)ing: Comparative Literature from Jules Verne to Slumdog Millionaire",
+    "Department": "COMPLIT",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Literary Theory in Comparison - An Introduction",
+    "Department": "COMPLIT",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Poetry in Flux - Dance Afoot",
+    "Department": "COMPLIT",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Child Sacrifice, Pros and Cons: The Binding of Isaac in Jewish, Christian, Islamic, and Modern Lit",
+    "Department": "COMPLIT",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Stories at the Border",
+    "Department": "COMPLIT",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Bargaining with the Devil: the Faust Legend",
+    "Department": "COMPLIT",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Translation: Language at Work",
+    "Department": "COMPLIT",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Privacy and Technology",
+    "Department": "COMPSCI",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Intelligent Systems: Design and Ethical Challenges",
+    "Department": "COMPSCI",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Data Science 1: Introduction to Data Science",
+    "Department": "COMPSCI",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Introduction to Theoretical Computer Science",
+    "Department": "COMPSCI",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Fairness, Privacy, and Validity in Data Analysis",
+    "Department": "COMPSCI",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Networks",
+    "Department": "COMPSCI",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Economics and Computation",
+    "Department": "COMPSCI",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Computing Hardware",
+    "Department": "COMPSCI",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Computer Networks",
+    "Department": "COMPSCI",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Data Systems",
+    "Department": "COMPSCI",
+    "Time": "4:00 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " Visualization",
+    "Department": "COMPSCI",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Computer Graphics",
+    "Department": "COMPSCI",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Artificial Intelligence",
+    "Department": "COMPSCI",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Introduction to Computer Science I",
+    "Department": "COMPSCI",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Systems Programming and Machine Organization",
+    "Department": "COMPSCI",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " System Design Projects",
+    "Department": "COMPSCI",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Performance, Tradition and Cultural Studies: An Introduction to Folklore and Mythology",
+    "Department": "CULTBLF",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " The Ancient Greek Hero: Mythology and Facing Death",
+    "Department": "CULTBLF",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Apocalypse Then! Forging the Culture of Medieval Rus'",
+    "Department": "CULTBLF",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " The Hebrew Bible",
+    "Department": "CULTBLF",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Animated Spirituality: Japanese Religion in Anime, Manga, and Film",
+    "Department": "CULTBLF",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Case Studies in the Medical Humanities: Interdisciplinary Perspectives on the Experience of Illness",
+    "Department": "CULTBLF",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Language and Culture",
+    "Department": "CULTBLF",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Elementary Czech I",
+    "Department": "CZCH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Czech I",
+    "Department": "CZCH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Dream of the Red Chamber (Hongloumeng)",
+    "Department": "Chinese",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Advanced Danish",
+    "Department": "Danish",
+    "Time": " 8:00 p.m. - 9:29 p.m.;  8:30 p.m. - 9:29 p.m."
+  },
+  {
+    "Name": " Beginning Danish",
+    "Department": "Danish",
+    "Time": " 7:00 p.m. - 8:59 p.m.;  7:30 p.m. - 8:29 p.m."
+  },
+  {
+    "Name": " Intermediate Danish",
+    "Department": "Danish",
+    "Time": " 6:00 p.m. - 7:59 p.m.;  6:00 p.m. - 7:29 p.m."
+  },
+  {
+    "Name": "PSCI 10 - A Brief History of the Earth",
+    "Department": "E",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "PSCI 100 - The Missing Matlab Course: An Introduction to Programming and Data Analysis",
+    "Department": "E",
+    "Time": "2:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": "PSCI 141 - Isotope and Trace Element Geochemistry and Geochronology",
+    "Department": "E",
+    "Time": "10:30 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": "PSCI 142 - Mineralogy",
+    "Department": "E",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "PSCI 145 - Introduction to Igneous Petrology and Petrogenesis",
+    "Department": "E",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "PSCI 171 - Structural Geology and Tectonics",
+    "Department": "E",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": "PSCI 187 - Low Temperature Geochemistry II: Modern and ancient biogeochemical processes",
+    "Department": "E",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": "PSCI 55 - Earthquakes and Tectonics",
+    "Department": "E",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Global Cities in East Asia",
+    "Department": "EASTD",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " East Asian Language Tutorials",
+    "Department": "EASTD",
+    "Time": " 9:00 a.m. - 9:59 a.m.;  12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Junior Tutorial--Japan and the World",
+    "Department": "EASTD",
+    "Time": "5:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " Junior Tutorial--The Political Economy of Modern China",
+    "Department": "EASTD",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Growth, Technology, Inequality, and Education",
+    "Department": "ECON",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Growth, Technology, Inequality, and Education",
+    "Department": "ECON",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Intermediate Microeconomics",
+    "Department": "ECON",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Microeconomics: Advanced",
+    "Department": "ECON",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " A Libertarian Perspective on Economic and Social Policy",
+    "Department": "ECON",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Cultural Economics",
+    "Department": "ECON",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Game Theory with Applications to Social Behavior",
+    "Department": "ECON",
+    "Time": " 4:30 p.m. - 5:59 p.m.;  1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Great Theorems of Microeconomic Theory",
+    "Department": "ECON",
+    "Time": "6:00 p.m. - 7:59 p.m."
+  },
+  {
+    "Name": " Principles of Economics",
+    "Department": "ECON",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Introduction to Econometrics",
+    "Department": "ECON",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Quantitative Methods in Economics",
+    "Department": "ECON",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " The History of Economic Growth",
+    "Department": "ECON",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " The Future of Globalization: Issues, Actors, and Decisions",
+    "Department": "ECON",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Public Economics: Designing Government Policy",
+    "Department": "ECON",
+    "Time": "2:00 p.m. - 3:29 p.m."
+  },
+  {
+    "Name": " Analytic Frameworks for Policy",
+    "Department": "ECON",
+    "Time": "10:15 a.m. - 11:44 a.m."
+  },
+  {
+    "Name": " American Economic Policy",
+    "Department": "ECON",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Economics of European Integrations",
+    "Department": "ECON",
+    "Time": "10:00 a.m. - 11:20 a.m."
+  },
+  {
+    "Name": " Religion and Political Economy",
+    "Department": "ECON",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Economics of Health Care Policy",
+    "Department": "ECON",
+    "Time": "8:40 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " The World Economy: Growth or Stagnation?",
+    "Department": "ECON",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " International Trade and Investment",
+    "Department": "ECON",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " International Financial and Macroeconomic Policy",
+    "Department": "ECON",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Industrial Organization: Theory and Applications",
+    "Department": "ECON",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Religion and the Rise of Capitalism",
+    "Department": "ECON",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Keynes",
+    "Department": "ECON",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Growth, Inequality, and the Income of Households",
+    "Department": "ECON",
+    "Time": "10:15 a.m. - 11:20 a.m."
+  },
+  {
+    "Name": " Behavioral Economics",
+    "Department": "ECON",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Globalization and Inequality (Junior Tutorial)",
+    "Department": "ECON",
+    "Time": "9:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " International Trade Policy",
+    "Department": "ECON",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Understanding Cooperation: Trust, Religion and Morality Across Societies",
+    "Department": "ECON",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " The Historical Origins of Middle Eastern Development",
+    "Department": "ECON",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The Language of the Pharaohs: Introduction to Egyptian Hieroglyphs I",
+    "Department": "EGYPTIAN",
+    "Time": "1:30 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Issues in the Study of Native American Religion",
+    "Department": "EMR",
+    "Time": "12:30 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Logical Reasoning",
+    "Department": "EMREAS",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " The Business and Politics of Health",
+    "Department": "EMREAS",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": "SCI 100HFA - Engineering Design Projects",
+    "Department": "ENG",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "SCI 111 - Introduction to Scientific Computing",
+    "Department": "ENG",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": "SCI 115 - Mathematical Modeling",
+    "Department": "ENG",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": "SCI 121 - Introduction to Optimization: Models and Methods",
+    "Department": "ENG",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": "SCI 125 - Mechanical Systems",
+    "Department": "ENG",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": "SCI 139 - Innovation in Science and Engineering: Conference Course",
+    "Department": "ENG",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "SCI 153 - Laboratory Electronics",
+    "Department": "ENG",
+    "Time": "1:30 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": "SCI 154 - Electronic Devices and Circuits",
+    "Department": "ENG",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": "SCI 155 - Biological Signal Processing",
+    "Department": "ENG",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": "SCI 158 - Feedback Control Systems: Analysis and Design",
+    "Department": "ENG",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": "SCI 163 - Pollution Control in Aquatic Ecosystems",
+    "Department": "ENG",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": "SCI 165 - Water Engineering",
+    "Department": "ENG",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": "SCI 169 - Seminar on Global Pollution Issues: Case Study of Lead Biogeochemistry",
+    "Department": "ENG",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "SCI 173 - Introduction to Electronic and Photonic Devices",
+    "Department": "ENG",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": "SCI 176 - Introduction to MicroElectroMechanical System",
+    "Department": "ENG",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": "SCI 181 - Engineering Thermodynamics",
+    "Department": "ENG",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": "SCI 190 - Introduction to Materials Science and Engineering",
+    "Department": "ENG",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": "SCI 26 - Humanity and its Challenges: Systems Thinking and Engineering Design Solutions",
+    "Department": "ENG",
+    "Time": "8:30 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": "SCI 29 - Introduction to Computational Design",
+    "Department": "ENG",
+    "Time": "8:30 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": "SCI 50 - Introduction to Electrical Engineering",
+    "Department": "ENG",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "SCI 51 - Computer-Aided Machine Design",
+    "Department": "ENG",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": "SCI 52 - The Joy of Electronics - Part I",
+    "Department": "ENG",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": "SCI 53 - Quantitative Physiology as a Basis for Bioengineering",
+    "Department": "ENG",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": "SCI 91R - Supervised Reading and Research",
+    "Department": "ENG",
+    "Time": "9:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": "SCI 95R - Startup R & D",
+    "Department": "ENG",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": "SCI 96 - Engineering Problem Solving and Design Project",
+    "Department": "ENG",
+    "Time": "9:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Introduction to Old English: Biblical Literature",
+    "Department": "ENGLISH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Shakespeare: The Early Plays",
+    "Department": "ENGLISH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " The 18th-Century English Novel",
+    "Department": "ENGLISH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " The Classic Phase of the Novel",
+    "Department": "ENGLISH",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Science Fiction",
+    "Department": "ENGLISH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Poetry, Exile and Displacement",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Global Fictions",
+    "Department": "ENGLISH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " America's Queer Canon: from Melville to Moonlight",
+    "Department": "ENGLISH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Introduction to Advanced Literary Study",
+    "Department": "ENGLISH",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Arrivals: British Literature, 700-1700",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Poets: Ode, Elegy, Epigram, Fragment, Song",
+    "Department": "ENGLISH",
+    "Time": "2:00 p.m. - 3:29 p.m."
+  },
+  {
+    "Name": " Poets: Narrative & Lyric",
+    "Department": "ENGLISH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Migrations: Testing the American Dream",
+    "Department": "ENGLISH",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " The Brontes",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Medieval Women and the Problem of Knowledge",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Nabokov Novels in English: Seminar",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " 20th-Century American Poetry",
+    "Department": "ENGLISH",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Advanced Fiction Writing: Workshop",
+    "Department": "ENGLISH",
+    "Time": "4:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " Advanced Journalism: Investigative Reporting",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Intermediate Poetry: Workshop",
+    "Department": "ENGLISH",
+    "Time": "4:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " Following the Food Chain",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Fiction Writing: Workshop",
+    "Department": "ENGLISH",
+    "Time": "4:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " Advanced Poetry: Workshop",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The I?s Have It: Writing and Reading the Personal Essay",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to Journalism",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to Playwriting: Workshop",
+    "Department": "ENGLISH",
+    "Time": "4:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " Dramatic Screenwriting I: Workshop",
+    "Department": "ENGLISH",
+    "Time": "4:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " Creative Nonfiction: Workshop",
+    "Department": "ENGLISH",
+    "Time": "4:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " Fiction Writing: Workshop",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Fiction Writing: Workshop",
+    "Department": "ENGLISH",
+    "Time": "4:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " The Short Screenplay: Workshop",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Writing for Television: Developing the Pilot",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Fiction Writing: Workshop",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Fiction Writing: Workshop",
+    "Department": "ENGLISH",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Sustainable Development",
+    "Department": "ESPP",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Technology, Environment, and Society",
+    "Department": "ESPP",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " China's Energy Economy: Perspectives from the Past: Challenges for the Future",
+    "Department": "ESPP",
+    "Time": "2:30 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Current Issues in U.S. Environmental Law",
+    "Department": "ESPP",
+    "Time": "6:00 p.m. - 8:29 p.m."
+  },
+  {
+    "Name": " Climate Policy?Past, Present, and Future",
+    "Department": "ESPP",
+    "Time": "2:45 p.m. - 5:15 p.m."
+  },
+  {
+    "Name": " Classical Chinese Ethical and Political Theory",
+    "Department": "ETHRSON",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Moral Inquiry in the Novels of Tolstoy and Dostoevsky",
+    "Department": "ETHRSON",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " The Theory and Practice of Republican Government",
+    "Department": "ETHRSON",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Public Speaking Practicum",
+    "Department": "EXPOS",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Public Speaking Practicum",
+    "Department": "EXPOS",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Public Speaking Practicum",
+    "Department": "EXPOS",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Public Speaking Practicum",
+    "Department": "EXPOS",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Public Speaking Practicum",
+    "Department": "EXPOS",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": "Elementary Modern Armenian",
+    "Department": "EXPOS",
+    "Time": "8:45 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Class, Race, and Space in Boston",
+    "Department": "Expository",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Documenting Lives",
+    "Department": "Expository",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Documenting Lives",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Drugs, Mind, and War in the Americas",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Drugs, Mind, and War in the Americas",
+    "Department": "Expository",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Eating Culture",
+    "Department": "Expository",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Existentialism",
+    "Department": "Expository",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Existentialism",
+    "Department": "Expository",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Faking It to Make It",
+    "Department": "Expository",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Faking It to Make It",
+    "Department": "Expository",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " God and Government",
+    "Department": "Expository",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " God and Government",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Gothic Fiction",
+    "Department": "Expository",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Human Rights as History",
+    "Department": "Expository",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Human Rights as History",
+    "Department": "Expository",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Humans, Nature, and the Environment",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Humans, Nature, and the Environment",
+    "Department": "Expository",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Journey to Mars",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Journey to Mars",
+    "Department": "Expository",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Paradox in Public Health",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Paradox in Public Health",
+    "Department": "Expository",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Religious Pluralism in the United States",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Religious Pluralism in the United States",
+    "Department": "Expository",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Respectable Ladies, Rebellious Women",
+    "Department": "Expository",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Respectable Ladies, Rebellious Women",
+    "Department": "Expository",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Society and the Witch",
+    "Department": "Expository",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Society and the Witch",
+    "Department": "Expository",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Terrorism or Freedom Fighter",
+    "Department": "Expository",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Terrorism or Freedom Fighter",
+    "Department": "Expository",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " The Femme Fatale",
+    "Department": "Expository",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " The Femme Fatale",
+    "Department": "Expository",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " The Psychology of Success and Failure",
+    "Department": "Expository",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " The Psychology of Success and Failure",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " The Underworld",
+    "Department": "Expository",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " The Underworld",
+    "Department": "Expository",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " War Stories",
+    "Department": "Expository",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Wastelands",
+    "Department": "Expository",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Wastelands",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Who's Got The Power?",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Who's Got The Power?",
+    "Department": "Expository",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Why Shakespeare?",
+    "Department": "Expository",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Why Shakespeare?",
+    "Department": "Expository",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Wizards and Wild Things",
+    "Department": "Expository",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Fairy Tale, Myth, and Fantasy Literature",
+    "Department": "FOLKMYTH",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Body Burdens: Toxic Tales and Politics of Environmental Racism",
+    "Department": "FOLKMYTH",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " On the Road: Traffic, Migrations, and Other Sorts of (Im)Mobilities",
+    "Department": "FOLKMYTH",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Assertive Stitches: Domestic Arts and Public Conflict",
+    "Department": "FOLKMYTH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " History and Theory of Folklore and Mythology",
+    "Department": "FOLKMYTH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Beginning French I: French Identity through Visual Media",
+    "Department": "FRENCH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning French I: French Identity through Visual Media",
+    "Department": "FRENCH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning French I: French Identity through Visual Media",
+    "Department": "FRENCH",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Beginning French I: French Identity through Visual Media",
+    "Department": "FRENCH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning French I: French Identity through Visual Media",
+    "Department": "FRENCH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning French I: French Identity through Visual Media",
+    "Department": "FRENCH",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " L'autre Balzac/The Other Balzac",
+    "Department": "FRENCH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Beginning French II: Exploring Parisian Life and Identity",
+    "Department": "FRENCH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning French II: Exploring Parisian Life and Identity",
+    "Department": "FRENCH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " From Rags to Riches: Money and the French Enlightenment",
+    "Department": "FRENCH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The Text of the Renaissance",
+    "Department": "FRENCH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Queer Fictions",
+    "Department": "FRENCH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Intensive Beginning French: Parisian Identity through Visual Media",
+    "Department": "FRENCH",
+    "Time": " 4:00 p.m. - 4:59 p.m.;  3:00 p.m. - 4:59 p.m.;  4:00 p.m. - 4:59 p.m.;  3:00 p.m. - 4:59 p.m.;  4:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Reading Modern French",
+    "Department": "FRENCH",
+    "Time": "8:30 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate French: The Culture of Food and Friendship in Francophone Countries",
+    "Department": "FRENCH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate French: The Culture of Food and Friendship in Francophone Countries",
+    "Department": "FRENCH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate French: The Culture of Food and Friendship in Francophone Countries",
+    "Department": "FRENCH",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Upper-level French: Communicating in the 21st Century: From Mainstream to Pop",
+    "Department": "FRENCH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Upper-level French: Communicating in the 21st Century: From Mainstream to Pop",
+    "Department": "FRENCH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Upper-level French: Communicating in the 21st Century: From Mainstream to Pop",
+    "Department": "FRENCH",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Upper-level French: Communicating in the 21st Century: From Mainstream to Pop",
+    "Department": "FRENCH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Advanced French I: The Contemporary Francophone World Through Cinema",
+    "Department": "FRENCH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Advanced French I: The Contemporary Francophone World Through Cinema",
+    "Department": "FRENCH",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Advanced French I: The Contemporary Francophone World Through Cinema",
+    "Department": "FRENCH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Advanced French II: Ecrivons droit(s)/Writing Right(s): Justice, Equity, Rights, and Writing",
+    "Department": "FRENCH",
+    "Time": "4:00 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " Advanced French II: Ecrivons droit(s)/Writing Right(s): Justice, Equity, Rights, and Writing",
+    "Department": "FRENCH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Modern Stories about Paris",
+    "Department": "FRENCH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Modern Stories about Paris",
+    "Department": "FRENCH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Introduction to French Literature II: 19th and 20th Centuries: Tales of Identity",
+    "Department": "FRENCH",
+    "Time": "10:30 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " French Theater across Time: An Introduction to Performance",
+    "Department": "FRENCH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Modern Civilization and the Rise of Heart Disease",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Evolution, Buddhism, and Ethics",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Psychoactive Molecules from Babylon to Breaking Bad",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Time for Sleep: Impact of sleep deficiency and circadian disruption in our 24/7 Culture",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " Introduction to Technology and Society",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Anatomy and Ethical Transgressions in National Socialism",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " GeoSciFi Movies: Real vs. Fiction",
+    "Department": "FRSEMR",
+    "Time": "2:30 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " Medicine, Law, and Ethics: An Introduction",
+    "Department": "FRSEMR",
+    "Time": "7:00 p.m. - 8:59 p.m."
+  },
+  {
+    "Name": " Physics, Math and Puzzles",
+    "Department": "FRSEMR",
+    "Time": "6:00 p.m. - 7:59 p.m."
+  },
+  {
+    "Name": " All Physics in 13 Days",
+    "Department": "FRSEMR",
+    "Time": "7:15 p.m. - 9:14 p.m."
+  },
+  {
+    "Name": " The Physics and Applied Physics Freshman Research Laboratory",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " A Brief History of Surgery",
+    "Department": "FRSEMR",
+    "Time": "7:00 p.m. - 8:59 p.m."
+  },
+  {
+    "Name": " Child Health in America",
+    "Department": "FRSEMR",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Getting to Know Charles Darwin",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Biology of Symbiosis: Living Together Can Be Fun!",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Finding Connections: Perspectives on Psychological Development and Mental Illness",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " The Universe's Hidden Dimensions",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Prediction: From Ancient Omens to Modern Computer Simulations",
+    "Department": "FRSEMR",
+    "Time": "2:30 p.m. - 4:29 p.m."
+  },
+  {
+    "Name": " Energy: Be the Change",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Death and Immortality",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Mexico: Revolution, Authoritarianism and Democracy: 100 Years",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The Life Project",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Nietzsche",
+    "Department": "FRSEMR",
+    "Time": "7:00 p.m. - 8:59 p.m."
+  },
+  {
+    "Name": " Skepticism and Knowledge",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Beauty and Christianity",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Complexity in Works of Art: Ulysses and Hamlet",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " You and Your Camera",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Language and Prehistory",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " The Art and Craft of Acting",
+    "Department": "FRSEMR",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " The Creative Work of Translating",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Folklore and the Culture of Childhood",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " To Far Places: Literature of Journey and Quest",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Comparative Historical Mythology",
+    "Department": "FRSEMR",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Money Matters",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 3:29 p.m."
+  },
+  {
+    "Name": " Muslim Voices in Contemporary World Literatures",
+    "Department": "FRSEMR",
+    "Time": "7:00 p.m. - 8:59 p.m."
+  },
+  {
+    "Name": " Beethoven's String Quartets",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " The Supreme Court in U.S. History",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Free Speech",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Making the Grade? Middle and High School Math Education in the U.S.",
+    "Department": "FRSEMR",
+    "Time": "2:30 p.m. - 4:29 p.m."
+  },
+  {
+    "Name": " Challenges to the International Monetary and Financial System in Historical Perspective",
+    "Department": "FRSEMR",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Sick and Tired of being Sick and Tired: Health Disparities and African Americans",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " The American Death Penalty: Morality, Law, and Politics",
+    "Department": "FRSEMR",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Economic Development",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Human Rights, Law and Advocacy",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " American Presidential Campaigns and Elections 1960-2016",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Media in American Politics",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Human Rights and the Global South",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " White Collar Blues?: Work in the Age of Flexible Capitalism",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The Economist's View of the World",
+    "Department": "FRSEMR",
+    "Time": "9:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " History, Nationalism, and the World: the Case of Korea",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Clash of Titans, Seats of Empire: The Aztecs, Toltecs, and Race of Giants in Ancient Mexico",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Political Legitimacy and Resistance: What Happened in Montaigne's Library on the Night of October 2",
+    "Department": "FRSEMR",
+    "Time": "2:45 p.m. - 4:44 p.m."
+  },
+  {
+    "Name": " The Holocaust in History, Literature, and Film",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The Art, Science and Technology of Glass",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " The Temporal Universe",
+    "Department": "FRSEMR",
+    "Time": "7:00 p.m. - 8:59 p.m."
+  },
+  {
+    "Name": " How Stuff Works",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " What Is the Internet, and What Will It Become?",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " What Do You See in the Night Sky?",
+    "Department": "FRSEMR",
+    "Time": "7:00 p.m. - 8:59 p.m."
+  },
+  {
+    "Name": " From Galileo to the Big Bang Theory: Conflict and Dialogue between Religion and Science",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Altruism and Aggression, Love and War: Biology of Social Behaviors",
+    "Department": "FRSEMR",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Bio?Inspiration and Innovation",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Can Chemistry Solve the Antibiotics Crisis?",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " A Sense of Space (and Time)",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Word?Sound?Image: Poetry as a Language Laboratory",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Faith and Fiction in American History",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Thinking about the Unthinkable: Love, Emotion and Hard Times in Literature",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Go Rococo! Techniques in Digital Design",
+    "Department": "FRSEMR",
+    "Time": "2:30 p.m. - 4:29 p.m."
+  },
+  {
+    "Name": " Spanish-American Culture and Society in the 1960s?The Last Utopia?",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Ghosts: How we have Summoned, Repelled, and Represented Intrusions from the Afterlife",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Cartoons, Folklore, and Mythology",
+    "Department": "FRSEMR",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Jefferson and Hamilton: Dueling American Visions",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Heretics, Gangsters, Writers",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " No Fear, No Hate, No Pain? Questioning Identify and its Others in Modern Literature about Spain",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Life Lessons from Professional Killers: What We Can Learn from the Samurai",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " ?Get Out of My Space!? Making Sense of Our Built Environment",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Language and Politics; Ideology and Society",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Fighting Monsters: Gothic Fiction as Social Critique",
+    "Department": "FRSEMR",
+    "Time": "2:30 p.m. - 4:29 p.m."
+  },
+  {
+    "Name": " Language: The Origins of Meaning",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Shape Shifting Your Reality",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Baseball as Philosophy: God, Beauty, and Morality",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Reading the Novella: Form and Suspense in Short Fiction",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " This is the End of the World",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Soft Power: The 21st Century Art Museum",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The Revolution Will Not Be Televised (Russian Revolution Imagined, Documented, Advertised)",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Landmark Cases in American Constitutional History",
+    "Department": "FRSEMR",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Morality, Leadership, and Gray Area Decisions",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Finding Your Inner Neanderthal",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Keeping It Simple: Consumer Financial Protection in a Complex World",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Beachhead for Radicalism or Bastion of the Elite Establishment? American Higher Education",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Conservatism and its Critics",
+    "Department": "FRSEMR",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Contemporary Issues in American Higher Education",
+    "Department": "FRSEMR",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Decision Theory and Game Theory in the Real World",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Regulating Online Conduct: Speech, Privacy, and the Use and Sharing of Content",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Zen and the Art of Living: Making the Ordinary Extraordinary",
+    "Department": "FRSEMR",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Discovering Cultures and the Sea: Navigation, Exploration, Conquest, and Trade",
+    "Department": "FRSEMR",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " West African Musical Tradition",
+    "Department": "Foundations",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " German Literature, Culture, and Society",
+    "Department": "GERMAN",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " German Empires 1848-1948",
+    "Department": "GERMAN",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Repression and Expression: Sexuality, Gender, and Language in Fin-de-siecle Literature and Art",
+    "Department": "GERMAN",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Korper, Kommunikation, Medien: Literatur im 21. Jahrhundert",
+    "Department": "GERMAN",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Bargaining with the Devil: the Faust Legend",
+    "Department": "GERMAN",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Advanced Grammar and Reading",
+    "Department": "GERMAN",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Crossing Borders in 20th and 21st Century German Culture",
+    "Department": "GERMAN",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Beginning German",
+    "Department": "GERMAN",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning German",
+    "Department": "GERMAN",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning German",
+    "Department": "GERMAN",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Beginning German",
+    "Department": "GERMAN",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Beginning German (Intensive)",
+    "Department": "GERMAN",
+    "Time": " 9:00 a.m. - 9:59 a.m.;  9:00 a.m. - 9:59 a.m.;  9:00 a.m. - 9:59 a.m.;  9:00 a.m. - 9:59 a.m.;  9:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning German (Intensive)",
+    "Department": "GERMAN",
+    "Time": " 10:00 a.m. - 10:59 a.m.;  10:00 a.m. - 10:59 a.m.;  10:00 a.m. - 10:59 a.m.;  10:00 a.m. - 10:59 a.m.;  9:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate German: Reading, Speaking, and Aural Comprehension",
+    "Department": "GERMAN",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate German: Reading, Speaking, and Aural Comprehension",
+    "Department": "GERMAN",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Intermediate German (Intensive): Speaking, Listening Comprehension, Reading, and Writing",
+    "Department": "GERMAN",
+    "Time": " 12:00 p.m. - 12:59 p.m.;  1:00 p.m. - 1:59 p.m.;  12:00 p.m. - 12:59 p.m.;  1:00 p.m. - 1:59 p.m.;  9:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Negotiation and Conflict Management: From the Interpersonal to the International",
+    "Department": "GHHP",
+    "Time": "2:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Quantitative Methods for Political Science I",
+    "Department": "GOV",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Introduction to Geographic Information Systems",
+    "Department": "GOV",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Survey Research Methods",
+    "Department": "GOV",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Ancient and Medieval Political Philosophy",
+    "Department": "GOV",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " The Politics of Economic Inequality",
+    "Department": "GOV",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Politics in Brazil",
+    "Department": "GOV",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " The Politics of American Education",
+    "Department": "GOV",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " American Constitutional Law",
+    "Department": "GOV",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " International Political Economy",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:29 p.m."
+  },
+  {
+    "Name": " American Foreign Policy",
+    "Department": "GOV",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Central Challenges of American National Security, Strategy, and the Press",
+    "Department": "GOV",
+    "Time": "4:15 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " Foundations of Comparative Politics",
+    "Department": "GOV",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " American Government: A New Perspective",
+    "Department": "GOV",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Introduction to Political Science Research Methods",
+    "Department": "GOV",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Political Economy",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Globalization and Private Governance",
+    "Department": "GOV",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Political Economy of Development",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Sino-US Relations in an Era of Rising Chinese Power",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Comparative Electoral Systems",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Identity, Politics, and Policy",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Feminist Political Thought",
+    "Department": "GOV",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " The Moral Life During War",
+    "Department": "GOV",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Liberalism and Empire",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " From Ford to Zuckerberg: Philanthropy and the Politics of Education",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Election Polling and Public Opinion",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Law and Politics in Multicultural Democracies",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Politics of Development in Africa",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Political Parties in Developed Democracies",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Revolution and Politics in Contemporary Iran",
+    "Department": "GOV",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " US-Latin American Relations: Seminar",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " A Revolt against Globalization? How Political Economies Change",
+    "Department": "GOV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to Ancient Greek Literature",
+    "Department": "GREEK",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Thucydides",
+    "Department": "GREEK",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " History of Greek Literature II",
+    "Department": "GREEK",
+    "Time": "9:00 a.m. - 10:29 a.m."
+  },
+  {
+    "Name": " The Language of Homer",
+    "Department": "GREEK",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Accelerated Introduction to Ancient Greek 2",
+    "Department": "GREEK",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Introductory Ancient Greek 3",
+    "Department": "GREEK",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Architecture and the Construction of Early Modern Islamic Empire: Proseminar",
+    "Department": "HAA",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " From Byzantium to the British Isles: The Materiality of Late Antiquity",
+    "Department": "HAA",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The Art of the Court of Constantinople",
+    "Department": "HAA",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Modern Art in Revolution: From the 1871 Paris Commune to October 1917",
+    "Department": "HAA",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Vision and Justice: The Art of Citizenship",
+    "Department": "HAA",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Tectonics Lab: Conference Course",
+    "Department": "HAA",
+    "Time": " 9:00 a.m. - 9:59 a.m.;  2:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Women in South Asian Art",
+    "Department": "HAA",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Introduction to Japanese Art",
+    "Department": "HAA",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " China in Twelve Artworks",
+    "Department": "HAA",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Junior Group Tutorial",
+    "Department": "HAA",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Tutorial - Senior Year",
+    "Department": "HAA",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Genetics and Human Evolution",
+    "Department": "HEB",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Why are we Different? Human Biological Diversity",
+    "Department": "HEB",
+    "Time": "10:00 a.m. - 12:29 p.m."
+  },
+  {
+    "Name": " Hormones and Behavior",
+    "Department": "HEB",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Stress",
+    "Department": "HEB",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " The Science and History of Alcohol",
+    "Department": "HEB",
+    "Time": "11:00 a.m. - 12:29 p.m."
+  },
+  {
+    "Name": " Evolutionary Medicine: Comparative Perspectives on Medical, Surgical and Psychiatric Illness",
+    "Department": "HEB",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Gut Microbiome and Human Health",
+    "Department": "HEB",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Research Methods in Endocrinology",
+    "Department": "HEB",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Becoming Human: New Techniques to Investigate an Ancient Story",
+    "Department": "HEB",
+    "Time": "3:00 p.m. - 4:29 p.m."
+  },
+  {
+    "Name": " Building the Human Body",
+    "Department": "HEB",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": "URD 101A - Introductory Hindi-Urdu",
+    "Department": "HIND",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": "URD 101A - Introductory Hindi-Urdu",
+    "Department": "HIND",
+    "Time": "3:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "URD 102A - Intermediate Hindi-Urdu",
+    "Department": "HIND",
+    "Time": "4:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": "URD 103AR - Advanced Hindi-Urdu",
+    "Department": "HIND",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": "URD 104 - The Classical Urdu Ghazal and Its Symbolism: Seminar",
+    "Department": "HIND",
+    "Time": "4:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " The War in Vietnam",
+    "Department": "HIST",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " The State of Israel in Comparative Perspective",
+    "Department": "HIST",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Studying Twentieth-Century American History: An Introduction",
+    "Department": "HIST",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " A History of Brazil, from Independence to the Present",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:29 p.m."
+  },
+  {
+    "Name": " Debating Capitalism: The History of American Economic Thought",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Slavery and the Slave Trade in the Atlantic World",
+    "Department": "HIST",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Empire, Nation, and Immigration in France since 1870",
+    "Department": "HIST",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " German Empires, 1848-1948",
+    "Department": "HIST",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Frontiers of Europe: Ukraine since 1500",
+    "Department": "HIST",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Revolutionary Eurasia, 1905-1949",
+    "Department": "HIST",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " History of the Book and of Reading",
+    "Department": "HIST",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " American Immigration",
+    "Department": "HIST",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Secrets and Lies in European History",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The Medieval Mediterranean: Conflict and Unity, Tradition and Innovation",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Plague, Fire & Apocalypse: Mentalities of Disaster from Genesis to Global Warming",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Cities and Urban Life in Latin American History",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Race and Nation in Latin America",
+    "Department": "HIST",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Japan in the Modern World",
+    "Department": "HIST",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " West Africa from 1800 to the Present",
+    "Department": "HIST",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Ottoman State and Society I (1300-1550)",
+    "Department": "HIST",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " The Middle East in the Twentieth Century",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Feminisms and Pornography, c 1975-1995",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Racial Capitalism and the Black Radical Tradition",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The History of Energy",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Pacific History",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Are You Now or Have You Ever Been an Android?: The New Materialism",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " From Wounded Knee to Standing Rock: Indigenous Political Struggle since 1890",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Mapping History",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The European Union: Achievements and Crises",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to Digital History",
+    "Department": "HIST",
+    "Time": "3:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The Life and Reign of Catherine the Great",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " U.S. History: Major Themes in the Twentieth Century",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The Origins of the Cold War: The Yalta Conference (1945)",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The Northern Side of the Civil Rights Movement",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Senior Thesis Tutorial",
+    "Department": "HIST",
+    "Time": "6:00 p.m. - 7:59 p.m."
+  },
+  {
+    "Name": "LIT 90BA - England After Empire",
+    "Department": "HIST",
+    "Time": "11:00 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": "LIT 90CB - Environmental Change in American History and Literature",
+    "Department": "HIST",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": "LIT 90CO - Latin American Cultural Criticism",
+    "Department": "HIST",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": "LIT 90CP - Boston and the World, 1600?1850",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "LIT 90CQ - Afro-Latin American Cultures: Race, Religion, Music, and Literature",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": "LIT 90CR - Narratives of Global Inequality",
+    "Department": "HIST",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": "LIT 90CS - The Cultural Criticism of the Frankfurt School",
+    "Department": "HIST",
+    "Time": "5:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": "LIT 90CT - Deportation and the Policing of Migration in U.S. History",
+    "Department": "HIST",
+    "Time": "11:00 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": "LIT 90CU - Fashion and Slavery",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "LIT 90CV - Contemporary American Literature and Popular Music",
+    "Department": "HIST",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": "LIT 90CW - Great Migrations: Black Atlantic Travel Narratives",
+    "Department": "HIST",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": "LIT 90CX - Stop Making Sense: America in the 1980s",
+    "Department": "HIST",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": "LIT 90CY - Watergate: Conspiracy, Paranoia, and the Abuse of Power",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "LIT 90CZ - Middle Eastern Displacements: From Ottoman Migrants to Syrian Refugees",
+    "Department": "HIST",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Knowing the World: An Introduction to the History of Science",
+    "Department": "HISTSCI",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " How Science Is Made",
+    "Department": "HISTSCI",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " The Century of Physics",
+    "Department": "HISTSCI",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Environments in Crisis",
+    "Department": "HISTSCI",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Graphic! Visualizing Medicine from Textbooks to Comics",
+    "Department": "HISTSCI",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Measuring the Mind: How Psychological Tests Are Used to Sort Americans and Why It Matters",
+    "Department": "HISTSCI",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " History of the Psychotherapies",
+    "Department": "HISTSCI",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Science, Technology, and Society in Modern East Asia",
+    "Department": "HISTSCI",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Digital Cultures",
+    "Department": "HISTSCI",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Transformative Technologies: From Washing Machines to Virtual Reality",
+    "Department": "HISTSCI",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Tutorial - Junior Year",
+    "Department": "HISTSCI",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Tutorial - Senior Year",
+    "Department": "HISTSCI",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Tutorial - Senior Year",
+    "Department": "HISTSCI",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": "LE 75 - (Mis)Understanding Islam Today",
+    "Department": "HSEMR",
+    "Time": "3:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " A Humanities Colloquium: From Homer to Garcia Marquez",
+    "Department": "HUMAN",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " The Art of Looking",
+    "Department": "HUMAN",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Introduction to Modern Irish",
+    "Department": "IRISH",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Introduction to Islamic Philosophy and Theology: The Modern Period (19th and 20th centuries)",
+    "Department": "ISLAMCIV",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Qur?anic Exegesis and Prophetic Tradition",
+    "Department": "ISLAMCIV",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Critical Perspectives on the Dynamics and Development of Islam in Africa",
+    "Department": "ISLAMCIV",
+    "Time": "12:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Beginning Italian I: Pathways to Italy",
+    "Department": "ITAL",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning Italian I: Pathways to Italy",
+    "Department": "ITAL",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning Italian I: Pathways to Italy",
+    "Department": "ITAL",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Beginning Italian II: The Art and Craft of Italy",
+    "Department": "ITAL",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Italian Cinema Bucket List",
+    "Department": "ITAL",
+    "Time": " 11:00 a.m. - 11:59 a.m.;  12:00 p.m. - 12:59 p.m.;  12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Finding Home: Centuries of Migration in Italian Literature",
+    "Department": "ITAL",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Reading Italian",
+    "Department": "ITAL",
+    "Time": "3:00 p.m. - 4:29 p.m."
+  },
+  {
+    "Name": " Intermediate Italian: Romance! Mystery? Noir...",
+    "Department": "ITAL",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Upper-Level Italian: Italian Through Media",
+    "Department": "ITAL",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Advanced Italian I: Oral Expression and Performance",
+    "Department": "ITAL",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Expos Studio 10: Introduction",
+    "Department": "Introduction",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Intermediate Japanese I",
+    "Department": "JAPAN",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate Japanese I",
+    "Department": "JAPAN",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Japanese I",
+    "Department": "JAPAN",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Intermediate Japanese II",
+    "Department": "JAPAN",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Intermediate Japanese II",
+    "Department": "JAPAN",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Advanced Modern Japanese",
+    "Department": "JAPAN",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Advanced Modern Japanese",
+    "Department": "JAPAN",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Readings and Discussion in Japanese Social Sciences",
+    "Department": "JAPAN",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Elementary Japanese",
+    "Department": "JAPAN",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Elementary Japanese",
+    "Department": "JAPAN",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Elementary Japanese",
+    "Department": "JAPAN",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Religion and Society in Edo and Meiji Japan",
+    "Department": "JAPNHIST",
+    "Time": "9:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Gender and Japanese Art",
+    "Department": "JAPNLIT",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Intermediate Korean",
+    "Department": "KOREAN",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Pre-advanced Korean",
+    "Department": "KOREAN",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Advanced Korean",
+    "Department": "KOREAN",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Elementary Korean",
+    "Department": "KOREAN",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Elementary Korean",
+    "Department": "KOREAN",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Elementary Korean",
+    "Department": "KOREAN",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Elementary Korean for Advanced Beginners",
+    "Department": "KOREAN",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Korean History Through Film",
+    "Department": "KORHIST",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " History of the US-Korea Relationship since 1945",
+    "Department": "KORHIST",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Catullus",
+    "Department": "LATIN",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " History of Latin Literature I",
+    "Department": "LATIN",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " The Terentian Tradition",
+    "Department": "LATIN",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Accelerated Introduction to Latin 2",
+    "Department": "LATIN",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Introductory Latin 3",
+    "Department": "LATIN",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Latin Review and Reading",
+    "Department": "LATIN",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Introductory Latin Prose Composition",
+    "Department": "LATIN",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Experimental Research in the Life Sciences",
+    "Department": "LIFESCI",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " An Integrated Introduction to the Life Sciences: Chemistry, Molecular Biology, and Cell Biology",
+    "Department": "LIFESCI",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Evolutionary Human Physiology and Anatomy",
+    "Department": "LIFESCI",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Integrated Science",
+    "Department": "LIFESCI",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Sentence Structure",
+    "Department": "LING",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Word Structure",
+    "Department": "LING",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Introduction to Historical Linguistics",
+    "Department": "LING",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Syntactic Theory I",
+    "Department": "LING",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Phonological Theory I",
+    "Department": "LING",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Semantic Theory I",
+    "Department": "LING",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Probabilistic Understanding of Language",
+    "Department": "LING",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Beginning American Sign Language I",
+    "Department": "LING",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Beginning ASL III",
+    "Department": "LING",
+    "Time": "4:00 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " Language, Structure, and Cognition",
+    "Department": "LING",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Foundational Chemistry and Biology",
+    "Department": "LPS",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Sets, Groups and Topology",
+    "Department": "MATH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Analysis II: Measure, Integration and Banach Spaces",
+    "Department": "MATH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Methods of Analysis",
+    "Department": "MATH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Linear Algebra and Applications",
+    "Department": "MATH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Algebra I: Theory of Groups and Vector Spaces",
+    "Department": "MATH",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Number Theory",
+    "Department": "MATH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Topology I: Topological Spaces and the Fundamental Group",
+    "Department": "MATH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Differential Geometry",
+    "Department": "MATH",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Set Theory",
+    "Department": "MATH",
+    "Time": "12:00 p.m. - 1:29 p.m."
+  },
+  {
+    "Name": " Discrete Mathematics",
+    "Department": "MATH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Mathematical Biology-Evolutionary Dynamics",
+    "Department": "MATH",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Multivariable Calculus for Social Sciences",
+    "Department": "MATH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Modeling and Differential Equations for the Life Sciences",
+    "Department": "MATH",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Linear Algebra and Real Analysis I",
+    "Department": "MATH",
+    "Time": "3:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Linear Algebra and Real Analysis I",
+    "Department": "MATH",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Honors Linear Algebra and Real Analysis I",
+    "Department": "MATH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Honors Abstract Algebra",
+    "Department": "MATH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Emerging Scholars: Problem Solving Exploration",
+    "Department": "MATH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Creativity Research: Madmen, Geniuses, and Harvard Students",
+    "Department": "MBB",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Dopamine",
+    "Department": "MBB",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Neuroaesthetics",
+    "Department": "MBB",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The Role of Music in Health and Education",
+    "Department": "MBB",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Experimental Research in Molecular and Cellular Biology",
+    "Department": "MCB",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Human Genetics",
+    "Department": "MCB",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Biological Data Analysis",
+    "Department": "MCB",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Cellular Basis of Neuronal Function",
+    "Department": "MCB",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The Microbes",
+    "Department": "MCB",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The Brain: Development, Plasticity and Decline",
+    "Department": "MCB",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Molecular and Cellular Immunology",
+    "Department": "MCB",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Cellular Biology and Molecular Medicine",
+    "Department": "MCB",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Biochemistry and Molecular Medicine",
+    "Department": "MCB",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Neurobiology of Behavior",
+    "Department": "MCB",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Fundamentals of Neuroscience",
+    "Department": "MCB",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Introduction to Medieval Latin Literature",
+    "Department": "MEDLATIN",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " The Terentian Tradition",
+    "Department": "MEDLATIN",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Authority and Invention: Medieval Art and Architecture",
+    "Department": "MEDVLSTD",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Sex, Love, and Marriage in the Middle Ages",
+    "Department": "MEDVLSTD",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": "HEB 120A - Intermediate Modern Hebrew I",
+    "Department": "MOD",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": "HEB 130A - Advanced Modern Hebrew I",
+    "Department": "MOD",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": "HEB BA - Elementary Modern Hebrew",
+    "Department": "MOD",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Elementary Modern Greek",
+    "Department": "MODGRK",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Intermediate Modern Greek: Culture and Civilization",
+    "Department": "MODGRK",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Modern Arabic Literature Seminar: Lebanese Civil War: Histories and Fictions",
+    "Department": "MODMDEST",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Harvard-Radcliffe Orchestra",
+    "Department": "MUSIC",
+    "Time": " 7:00 p.m. - 8:59 p.m.;  3:00 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " Intensive Conducting",
+    "Department": "MUSIC",
+    "Time": " 1:00 p.m. - 3:59 p.m.;  12:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Harvard-Radcliffe Collegium Musicum",
+    "Department": "MUSIC",
+    "Time": "4:15 p.m. - 6:29 p.m."
+  },
+  {
+    "Name": " What Is Musical Form?",
+    "Department": "MUSIC",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Modal Counterpoint",
+    "Department": "MUSIC",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Harvard Glee Club",
+    "Department": "MUSIC",
+    "Time": "4:15 p.m. - 6:29 p.m."
+  },
+  {
+    "Name": " Composition: Proseminar",
+    "Department": "MUSIC",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Radcliffe Choral Society",
+    "Department": "MUSIC",
+    "Time": " 7:00 p.m. - 9:29 p.m.;  4:15 p.m. - 6:29 p.m."
+  },
+  {
+    "Name": " Creative Music: Advanced Ensemble Workshop",
+    "Department": "MUSIC",
+    "Time": "7:00 p.m. - 9:59 p.m."
+  },
+  {
+    "Name": " Vocal Ensemble Music Performance",
+    "Department": "MUSIC",
+    "Time": "2:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " 21st Century Ensemble Workshop",
+    "Department": "MUSIC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Harvard Jazz Band",
+    "Department": "MUSIC",
+    "Time": " 7:15 p.m. - 9:14 p.m.;  7:15 p.m. - 8:14 p.m."
+  },
+  {
+    "Name": " Exploring Leonard Bernstein?s Young People?s Concerts in Memory, Music, and Media",
+    "Department": "MUSIC",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Music, theater and dance of South Asia",
+    "Department": "MUSIC",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Introduction to Composition",
+    "Department": "MUSIC",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Theory Ia",
+    "Department": "MUSIC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Critical Listening",
+    "Department": "MUSIC",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Nepali",
+    "Department": "NEP",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Beyond Neurons: The Role of Glia in Brain Function and Dysfunction",
+    "Department": "NEURO",
+    "Time": "6:00 p.m. - 7:29 p.m."
+  },
+  {
+    "Name": " Human Cognition: Reading and Writing the Neural Code",
+    "Department": "NEURO",
+    "Time": "6:00 p.m. - 7:29 p.m."
+  },
+  {
+    "Name": " Neurobiology of Learning and Memory",
+    "Department": "NEURO",
+    "Time": "6:30 p.m. - 7:59 p.m."
+  },
+  {
+    "Name": " Sex and the Brain",
+    "Department": "NEURO",
+    "Time": "6:30 p.m. - 7:59 p.m."
+  },
+  {
+    "Name": " Visual Circuits: How Neurons and Networks See",
+    "Department": "NEURO",
+    "Time": "7:00 p.m. - 8:29 p.m."
+  },
+  {
+    "Name": " Visual Recognition: Computational and Biophysical Perspective",
+    "Department": "NEURO",
+    "Time": "3:30 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " Foundations of Biological Diversity",
+    "Department": "OEB",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Biology of Mammals",
+    "Department": "OEB",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " The Mouse in Science and Society",
+    "Department": "OEB",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Genes and Behavior",
+    "Department": "OEB",
+    "Time": "3:00 p.m. - 4:29 p.m."
+  },
+  {
+    "Name": " Systematics",
+    "Department": "OEB",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Evolutionary Biology",
+    "Department": "OEB",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Biology of the Fungi",
+    "Department": "OEB",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " How to Build an Animal",
+    "Department": "OEB",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Advanced Persian I",
+    "Department": "PERSIAN",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Modern Persian Poetry and Prose",
+    "Department": "PERSIAN",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Elementary Persian",
+    "Department": "PERSIAN",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Persian I",
+    "Department": "PERSIAN",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Plato's Gorgias",
+    "Department": "PHIL",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Medieval Philosophy",
+    "Department": "PHIL",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Fundamentals of Logic",
+    "Department": "PHIL",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Philosophy of Probability",
+    "Department": "PHIL",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Mind, Brain, and Behavior Proseminar: Memory",
+    "Department": "PHIL",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Metaphysics",
+    "Department": "PHIL",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Kant's Ethical Theory",
+    "Department": "PHIL",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Animals and Ethics",
+    "Department": "PHIL",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Educational Justice: Proseminar",
+    "Department": "PHIL",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Inequality",
+    "Department": "PHIL",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " The True and the Good",
+    "Department": "PHIL",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Existentialism in Literature and Film",
+    "Department": "PHIL",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Ancient Ethics and Modern Morality",
+    "Department": "PHIL",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Ancient Greek Philosophy",
+    "Department": "PHIL",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Junior Tutorial II",
+    "Department": "PHIL",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Junior Tutorial II",
+    "Department": "PHIL",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Quantum and Statistical Foundations of Chemistry",
+    "Department": "PHYSCI",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Electromagnetism and Statistical Physics from an Analytic, Numerical and Experimental Perspective",
+    "Department": "PHYSCI",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Mechanics, Elasticity, Fluids, and Diffusion",
+    "Department": "PHYSCI",
+    "Time": "9:30 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Laboratory Electronics",
+    "Department": "PHYSICS",
+    "Time": "1:30 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " The Physics of Sensory Systems in Biology",
+    "Department": "PHYSICS",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Quantum Mechanics I",
+    "Department": "PHYSICS",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Quantum Mechanics II",
+    "Department": "PHYSICS",
+    "Time": "9:30 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Mechanics",
+    "Department": "PHYSICS",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Introductory Mechanics and Relativity",
+    "Department": "PHYSICS",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Introductory Electromagnetism and Statistical Physics",
+    "Department": "PHYSICS",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Wave Phenomena",
+    "Department": "PHYSICS",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Mechanics and Special Relativity",
+    "Department": "PHYSICS",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Advanced Laboratory",
+    "Department": "PHYSICS",
+    "Time": "1:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Introduction to Solid State Physics",
+    "Department": "PHYSICS",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Topics in Current Research",
+    "Department": "PHYSICS",
+    "Time": " 3:00 p.m. - 4:15 p.m.;  7:00 p.m. - 8:59 p.m."
+  },
+  {
+    "Name": " Elementary Polish I",
+    "Department": "PLSH",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Intermediate Polish I",
+    "Department": "PLSH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning Portuguese I: From Cambridge to Copacabana",
+    "Department": "PORTUG",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning Portuguese for Spanish Speakers I: It?s SAMBA, not Salsa!",
+    "Department": "PORTUG",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning Portuguese for Spanish Speakers I: It?s SAMBA, not Salsa!",
+    "Department": "PORTUG",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Beginning Portuguese for Spanish Speakers II: More SAMBA, less Salsa!",
+    "Department": "PORTUG",
+    "Time": "5:30 p.m. - 6:29 p.m."
+  },
+  {
+    "Name": " Portuguese Literary Studies I",
+    "Department": "PORTUG",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Intensive Beginning Portuguese",
+    "Department": "PORTUG",
+    "Time": " 4:30 p.m. - 5:59 p.m.;  4:30 p.m. - 5:29 p.m.;  4:30 p.m. - 5:59 p.m.;  4:30 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " Intermediate Portuguese: Palcos e Palavras",
+    "Department": "PORTUG",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Upper-Level Portuguese: Lusophone Culture in Bits and Pieces",
+    "Department": "PORTUG",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Advanced Portuguese I: Through the Brazilian Looking Glass: The Cinema of Brazil",
+    "Department": "PORTUG",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Introduction to Modern Brazilian Literature",
+    "Department": "PORTUG",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Health Psychology",
+    "Department": "PSY",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Psychology of Consumer Behavior",
+    "Department": "PSY",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Your Brain on Drugs: Psychopharmacology",
+    "Department": "PSY",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Brain Damage as a Window into the Mind: Cognitive Neuropsychology",
+    "Department": "PSY",
+    "Time": "1:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Evolution and Cognition",
+    "Department": "PSY",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Foundations of Cognitive Neuroscience Research",
+    "Department": "PSY",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Cognitive Neuroscience",
+    "Department": "PSY",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " The Clever Human Brain: How we Control the Flow of Information and Make Good Decisions",
+    "Department": "PSY",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " How Hidden Incentives Shape the Mind: The Origins of Our Beliefs and Ideologies",
+    "Department": "PSY",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " But Why?: Ultimate Explanations for the Quirks of the Mind",
+    "Department": "PSY",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Psychology of Economic Inequality",
+    "Department": "PSY",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Psychology of Belief Systems: Sense-Making, Motivated Reasoning, Ideology, and Misinformation",
+    "Department": "PSY",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Becoming an adult: Exploring Emerging Adulthood as a distinct developmental stage",
+    "Department": "PSY",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Language Development: Undergraduate Laboratory Course: Research Seminar",
+    "Department": "PSY",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " The Emotional Mind",
+    "Department": "PSY",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Personality and Self-Knowledge",
+    "Department": "PSY",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Free Will, Responsibility, and Law",
+    "Department": "PSY",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Abnormal Psychology",
+    "Department": "PSY",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Psychotherapy: Science and Practice",
+    "Department": "PSY",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Stress, Coping, and Resilience",
+    "Department": "PSY",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Introduction to Statistics for the Behavioral Sciences",
+    "Department": "PSY",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Statistical Analysis in Psychology",
+    "Department": "PSY",
+    "Time": "1:30 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Laboratory on Reinforcement Learning and Decision Making",
+    "Department": "PSY",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Animal Cognition",
+    "Department": "PSY",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " The Human Factor: How Technology is Transforming Our Everyday Lives for Better and Worse",
+    "Department": "PSY",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Trauma and Posttraumatic Stress Disorder",
+    "Department": "PSY",
+    "Time": "6:00 p.m. - 7:59 p.m."
+  },
+  {
+    "Name": " Growing Up and Growing Old: Cognitive Changes in Childhood and Aging",
+    "Department": "PSY",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Psychology of Left and Right",
+    "Department": "PSY",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Social Factors in the Development of Psychopathology",
+    "Department": "PSY",
+    "Time": "7:00 p.m. - 8:59 p.m."
+  },
+  {
+    "Name": " Senior Tutorial: Honors Thesis in Psychology",
+    "Department": "PSY",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Senior Tutorial: Honors Thesis in Psychology",
+    "Department": "PSY",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Senior Tutorial: Honors Thesis (Mind/Brain/Behavior)",
+    "Department": "PSY",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Senior Tutorial: Honors Thesis (Mind/Brain/Behavior)",
+    "Department": "PSY",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Senior Tutorial: Honors Thesis (Cognitive Neuroscience and Evolutionary Psychology)",
+    "Department": "PSY",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Senior Tutorial: Honors Thesis (Cognitive Neuroscience and Evolutionary Psychology)",
+    "Department": "PSY",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " The Tree at the Center of the World I",
+    "Department": "RELIGION",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Genesis: Narrative Artistry and Theological Meanings",
+    "Department": "RELIGION",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Ancient Greek Sanctuaries: Healing and Medicine",
+    "Department": "RELIGION",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Scripture Stories of Women",
+    "Department": "RELIGION",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Apocalyptic Literature from the Second Temple period to Byzantium and Early Islam",
+    "Department": "RELIGION",
+    "Time": "12:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " History of Western Christianity, 150-1100",
+    "Department": "RELIGION",
+    "Time": "4:00 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " The Protestant Reformations",
+    "Department": "RELIGION",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Pope Francis: His ?Theology of the People? and the Future of Religion",
+    "Department": "RELIGION",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Introduction to Hermeneutics and Theology",
+    "Department": "RELIGION",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Calvin, Schleiermacher, Barth, Cone",
+    "Department": "RELIGION",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Justice, Human Rights, and Religion",
+    "Department": "RELIGION",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Unitarian and Universalist History in the United States",
+    "Department": "RELIGION",
+    "Time": "9:30 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Alternative Spiritualities in the United States",
+    "Department": "RELIGION",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Sex, Gender, and Sexuality II",
+    "Department": "RELIGION",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Issues in the Study of Native American Religion",
+    "Department": "RELIGION",
+    "Time": "12:30 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Buddhist Ethics",
+    "Department": "RELIGION",
+    "Time": "12:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Introduction to Buddhist Narrative and Story Literature",
+    "Department": "RELIGION",
+    "Time": "8:30 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Introduction to Islamic Mystical Traditions",
+    "Department": "RELIGION",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The Politics of Storytelling",
+    "Department": "RELIGION",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Incarnation and Desire",
+    "Department": "RELIGION",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " The Real Game of Thrones ? Culture, Society, and Religion in the Middle Ages",
+    "Department": "RELIGION",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Indian Religions Through Their Narrative Literatures",
+    "Department": "RELIGION",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": "STD 110 - Haiti, Cuba, Martinique: Cultures of Resistance",
+    "Department": "ROM",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Advanced Russian I",
+    "Department": "RUSS",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Advanced Russian I",
+    "Department": "RUSS",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Advanced Russian: Introduction to the Language of Social Sciences and the Media",
+    "Department": "RUSS",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Advanced Russian: Readings in Russian/Post-Soviet Studies",
+    "Department": "RUSS",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Advanced Russian: Readings in Russian Literature",
+    "Department": "RUSS",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Elementary Russian I",
+    "Department": "RUSS",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Elementary Russian I",
+    "Department": "RUSS",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Russian for Heritage Speakers",
+    "Department": "RUSS",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Elementary Russian through Authentic Texts: Russian through Pushkin I",
+    "Department": "RUSS",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Intermediate Russian I",
+    "Department": "RUSS",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Russian through Authentic Texts: Russian through Bulgakov I",
+    "Department": "RUSS",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Elementary Sanskrit",
+    "Department": "SANSKRIT",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Intermediate Sanskrit I",
+    "Department": "SANSKRIT",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " South Asian Language Tutorials, Introductory Level",
+    "Department": "SAS",
+    "Time": "2:00 p.m. - 3:29 p.m."
+  },
+  {
+    "Name": " South Asian Language Tutorials, Advanced Level",
+    "Department": "SAS",
+    "Time": " 3:30 p.m. - 4:59 p.m.;  3:00 p.m. - 4:29 p.m."
+  },
+  {
+    "Name": " Norwegian",
+    "Department": "SCAND",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Norwegian",
+    "Department": "SCAND",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Norwegian",
+    "Department": "SCAND",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Norwegian",
+    "Department": "SCAND",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Supervised Reading and Research",
+    "Department": "SCAND",
+    "Time": "11:00 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Psychological Science",
+    "Department": "SCILIVSY",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Global Infectious Diseases and Social Justice: Lessons from Science, History, & Humanities",
+    "Department": "SCILIVSY",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " How to Build a Habitable Planet",
+    "Department": "SCIPHUNV",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " What is Life? From Quarks to Consciousness",
+    "Department": "SCIPHUNV",
+    "Time": "9:30 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Finding Our Way",
+    "Department": "SCIPHUNV",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Science and Cooking: From Haute Cuisine to Soft Matter Science",
+    "Department": "SCIPHUNV",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " The Climate-Energy Challenge",
+    "Department": "SCIPHUNV",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Human Developmental and Regenerative Biology",
+    "Department": "SCRB",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " CRISPR Cas9: Precision Genetics and Gene Therapy",
+    "Department": "SCRB",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Glucose: From Molecule to Society",
+    "Department": "SCRB",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Understanding Aging: Degeneration, Regeneration, and the Scientific Search for the Fountain of Youth",
+    "Department": "SCRB",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Introduction to Scottish Gaelic",
+    "Department": "SCTGALIC",
+    "Time": " 12:00 p.m. - 12:59 p.m.;  10:00 a.m. - 10:59 a.m.;  10:00 a.m. - 10:59 a.m.;  10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Structure of Modern Russian",
+    "Department": "SLAVIC",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Cultures of Russian Revolution",
+    "Department": "SLAVIC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Cultures of Russian Revolution",
+    "Department": "SLAVIC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to Polish Culture",
+    "Department": "SLAVIC",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Russian Poetry of the 19th Century",
+    "Department": "SLAVIC",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " The Other Russia: Twenty-First Century Films, Fictions, States of Mind",
+    "Department": "SLAVIC",
+    "Time": "2:00 p.m. - 3:29 p.m."
+  },
+  {
+    "Name": " Literature as Institutions",
+    "Department": "SLAVIC",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " The Power of the Powerless: Dissidents from Socrates to Vaclav Havel",
+    "Department": "SLAVIC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "STD 10A - Introduction to Social Studies",
+    "Department": "SOC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "STD 68EC - Education and Community in America: Universities and Community Engagement, 1890-2017",
+    "Department": "SOC",
+    "Time": "12:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": "STD 68UH - Urban Health and Community Change: Action Planning With Local Stakeholders",
+    "Department": "SOC",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "STD 96LD - Donald Trump and the Challenge to Liberal Democracy",
+    "Department": "SOC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "STD 98AX - Development and Modernization: A Critical Perspective",
+    "Department": "SOC",
+    "Time": "12:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": "STD 98EO - Art, Popular Culture, and Civic Life",
+    "Department": "SOC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "STD 98JL - Global Social Movements",
+    "Department": "SOC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "STD 98LF - Globalization and the Nation State",
+    "Department": "SOC",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": "STD 98NB - Inequality and Social Mobility in America",
+    "Department": "SOC",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": "STD 98NQ - Global East Asia",
+    "Department": "SOC",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": "STD 98OW - Crime and Security in Latin America",
+    "Department": "SOC",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": "STD 98PV - The Critical Theory of the Frankfurt School",
+    "Department": "SOC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "STD 98QA - Rawls & the Moral Feelings",
+    "Department": "SOC",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": "STD 98QB - Democracy and Education in America",
+    "Department": "SOC",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": "STD 98QC - Populism and Democracy",
+    "Department": "SOC",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": "STD 98QE - Medicine and Society",
+    "Department": "SOC",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Higher Education: Institutions, Inequalities, and Controversies",
+    "Department": "SOCIOL",
+    "Time": "11:00 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Media and Popular Culture",
+    "Department": "SOCIOL",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Social Class in the Black Community",
+    "Department": "SOCIOL",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Stratification, Social Structure, and Networks",
+    "Department": "SOCIOL",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Models of Social Science Research",
+    "Department": "SOCIOL",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Philanthropy and Nonprofit Organizations",
+    "Department": "SOCIOL",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Contemporary Chinese Society",
+    "Department": "SOCIOL",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Economic Sociology",
+    "Department": "SOCIOL",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Sex, Gender, Sexuality",
+    "Department": "SOCIOL",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Social Change in Modern Korea",
+    "Department": "SOCIOL",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Refugees in Global Perspective",
+    "Department": "SOCIOL",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Introduction to Political Sociology",
+    "Department": "SOCIOL",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Research Lab: Analyzing Urban Inequality",
+    "Department": "SOCIOL",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Arts, Culture, and Urban Neighborhoods",
+    "Department": "SOCIOL",
+    "Time": "12:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Media, Society, and Social Change",
+    "Department": "SOCIOL",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Studying Up\": Privilege, Elite Education, and Inequality",
+    "Department": "SOCIOL",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " CHINA: Past, Present, Future",
+    "Department": "SOCWORLD",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Case Studies in Global Health: Biosocial Perspectives",
+    "Department": "SOCWORLD",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Moctezuma's Mexico: Then and Now",
+    "Department": "SOCWORLD",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " The Caribbean: Globalization, Socio-Economic Development & Cultural Adaptation",
+    "Department": "SOCWORLD",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Modern India and South Asia",
+    "Department": "SOCWORLD",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Medieval Europe: History, Archaeology, and Archaeoscience",
+    "Department": "SOCWORLD",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " The World Wars and Global Transformation, 1900-1950",
+    "Department": "SOCWORLD",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Contemporary Developing Countries: Entrepreneurial Solutions to Intractable Problems",
+    "Department": "SOCWORLD",
+    "Time": "3:30 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Politics of Nature",
+    "Department": "SOCWORLD",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Beginning Spanish I",
+    "Department": "SPANSH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish I",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish I",
+    "Department": "SPANSH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish I",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish I",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish I",
+    "Department": "SPANSH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish I",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Beginning Spanish I",
+    "Department": "SPANSH",
+    "Time": "2:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Border Flux and Border Subjects: Cultural Practices of the US-Mexico Border",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Colonial and Post-Colonial: Literary Liberties in Latin America",
+    "Department": "SPANSH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Beginning Spanish II",
+    "Department": "SPANSH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish II",
+    "Department": "SPANSH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish II",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish II",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish II",
+    "Department": "SPANSH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish II",
+    "Department": "SPANSH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning Spanish II",
+    "Department": "SPANSH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Cultural and Political Myth-Making: Eva Peron, Che Guevara, Simon Bolivar and La Malinche",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Spanish Film from Bu?uel to Almodovar",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Encounters in the Atlantic: Transnational Relations Between Spain and Hispanic America",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Intensive Beginning Spanish: Special Course",
+    "Department": "SPANSH",
+    "Time": " 9:00 a.m. - 9:59 a.m.;  9:00 a.m. - 9:59 a.m.;  10:00 a.m. - 10:59 a.m.;  9:00 a.m. - 9:59 a.m.;  9:00 a.m. - 9:59 a.m.;  10:00 a.m. - 10:59 a.m.;  9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate Spanish: Language and Culture in the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate Spanish: Language and Culture in the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Spanish: Language and Culture in the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate Spanish: Language and Culture in the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Spanish: Language and Culture in the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Intermediate Spanish: Language and Culture in the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Intermediate Spanish: Language and Culture in the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Upper-level Spanish: Four Countries and their Cultures",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Upper-level Spanish: Four Countries and their Cultures",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Upper-level Spanish: Four Countries and their Cultures",
+    "Department": "SPANSH",
+    "Time": "8:30 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Upper-level Spanish: Four Countries and their Cultures",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Upper-level Spanish: Four Countries and their Cultures",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Advanced Spanish Language I: Viewing the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Advanced Spanish Language I: Viewing the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Advanced Spanish Language I: Viewing the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Advanced Spanish Language I: Viewing the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "8:30 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Advanced Spanish Language I: Viewing the Hispanic World",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Spanish for Latino Students I",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Advanced Spanish II: Creative Writing and Performance",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Advanced Spanish II: Creative Writing and Performance",
+    "Department": "SPANSH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Advanced Spanish II: Creative Writing and Performance",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Advanced Spanish II: Creative Writing and Performance",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Spanish and the Community",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " The Ethics of Business in Latin America",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " The Ethics of Business in Latin America",
+    "Department": "SPANSH",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Golden Age Literature",
+    "Department": "SPANSH",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Introduction to Latino/a Literature in the United States",
+    "Department": "SPANSH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Words of Which History is Made: Translation Workshop on 20th-Century Spain",
+    "Department": "SPANSH",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Introduction to Quantitative Methods for the Social Sciences and Humanities",
+    "Department": "STAT",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Introduction to Quantitative Methods for Economics",
+    "Department": "STAT",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Introduction to Probability",
+    "Department": "STAT",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to Bayesian Inference and Applications",
+    "Department": "STAT",
+    "Time": "11:00 a.m. - 12:29 p.m."
+  },
+  {
+    "Name": " Data Science 1: Introduction to Data Science",
+    "Department": "STAT",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Time Series & Prediction",
+    "Department": "STAT",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": " Linear Models",
+    "Department": "STAT",
+    "Time": "9:30 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Design and Analysis of Sample Surveys",
+    "Department": "STAT",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Sumerian Myths and Epics",
+    "Department": "SUMERIAN",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Elementary Swahili",
+    "Department": "SWAHILI",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Beginning Swedish Language and Literature",
+    "Department": "SWEDISH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Beginning Swedish Language and Literature",
+    "Department": "SWEDISH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Swedish: Childhood in Swedish Literature and Culture",
+    "Department": "SWEDISH",
+    "Time": "4:00 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " Elementary Tamil",
+    "Department": "TAM",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate Tamil",
+    "Department": "TAM",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Foundations in Acting: Practical Aesthetics",
+    "Department": "TDM",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Acting Workshop: Comedy",
+    "Department": "TDM",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Vocal Production For Performers",
+    "Department": "TDM",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " What's so Funny?: Introduction to Improvisational Comedy",
+    "Department": "TDM",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Directing",
+    "Department": "TDM",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Fundaments of Improvisation and Composition: Dance",
+    "Department": "TDM",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " GAGA People: Movement Language",
+    "Department": "TDM",
+    "Time": "9:15 a.m. - 10:44 a.m."
+  },
+  {
+    "Name": " Repertoire for Advanced Dancers",
+    "Department": "TDM",
+    "Time": "3:00 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " The Art of Scenography: 20th and 21st Century Directorial Concepts and Set Design",
+    "Department": "TDM",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Techniques in Theater Design and Technology",
+    "Department": "TDM",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Performing the Archives: American Melodrama",
+    "Department": "TDM",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Acting and Authenticity",
+    "Department": "TDM",
+    "Time": "2:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Sport as Performance",
+    "Department": "TDM",
+    "Time": "12:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Performance Activism",
+    "Department": "TDM",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The Making of a Musical: The Creative Process",
+    "Department": "TDM",
+    "Time": "12:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Production Studio",
+    "Department": "TDM",
+    "Time": "3:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to Playwriting: Workshop",
+    "Department": "TDM",
+    "Time": "4:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " Introductory Thai I",
+    "Department": "THI",
+    "Time": " 9:00 a.m. - 10:29 a.m.;  6:15 p.m. - 7:45 p.m."
+  },
+  {
+    "Name": " Intermediate Thai I",
+    "Department": "THI",
+    "Time": "6:15 p.m. - 7:45 p.m."
+  },
+  {
+    "Name": " Readings in Thai I",
+    "Department": "THI",
+    "Time": " 7:00 p.m. - 8:29 p.m.;  9:00 a.m. - 10:29 a.m."
+  },
+  {
+    "Name": " Elementary Classical Tibetan",
+    "Department": "TIBET",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Intermediate Classical Tibetan",
+    "Department": "TIBET",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Elementary Colloquial Tibetan",
+    "Department": "TIBET",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Intermediate Colloquial Tibetan",
+    "Department": "TIBET",
+    "Time": "1:00 p.m. - 1:59 p.m."
+  },
+  {
+    "Name": " Advanced Colloquial Tibetan",
+    "Department": "TIBET",
+    "Time": "5:00 p.m. - 6:29 p.m."
+  },
+  {
+    "Name": " Intermediate Modern Turkish I",
+    "Department": "TURKISH",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Advanced Ottoman Turkish I",
+    "Department": "TURKISH",
+    "Time": "4:30 p.m. - 6:29 p.m."
+  },
+  {
+    "Name": " Junior Year - Ancient & Modern Receptions of Classical Lit",
+    "Department": "Tutorial",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Junior Year - Science & Technology in Greco-Roman Culture",
+    "Department": "Tutorial",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Moral Epistemology",
+    "Department": "Tutorial",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Plato's Political Philosophy",
+    "Department": "Tutorial",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Elementary Ukrainian I",
+    "Department": "UKRA",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": "WORLD 24 - Reinventing (and Reimagining) Boston: The Changing American City",
+    "Department": "US",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  },
+  {
+    "Name": "WORLD 26 - Sex and the Citizen: Race, Gender, and Belonging in the United States",
+    "Department": "US",
+    "Time": "10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": "WORLD 30 - Tangible Things: Harvard Collections in World History",
+    "Department": "US",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": "WORLD 32 - The World's Religions in Multicultural America: Case Studies in Religious Pluralism",
+    "Department": "US",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": "WORLD 35 - Dilemmas of Equity and Excellence in American K-12 Education",
+    "Department": "US",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": "WORLD 35 - Dilemmas of Equity and Excellence in American K-12 Education",
+    "Department": "US",
+    "Time": "11:30 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": "WORLD 41 - Power and Protest: The United States in the World of the 1960s",
+    "Department": "US",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Studies of the Built North American Environment since 1580",
+    "Department": "VES",
+    "Time": "10:00 a.m. - 11:29 a.m."
+  },
+  {
+    "Name": " Principles and Plasticity: Intermediate Painting Course",
+    "Department": "VES",
+    "Time": " 9:00 a.m. - 11:59 a.m.;  1:30 p.m. - 4:29 p.m."
+  },
+  {
+    "Name": " Object Matter of Jelly Fish: Sculpture Course",
+    "Department": "VES",
+    "Time": "10:00 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " Making Mischief: Using Photography to Upset Expectations",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Narrative Tactilities: Studio Course",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Nonfiction Video Projects",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 5:29 p.m."
+  },
+  {
+    "Name": " Intermediate Animation: Making an Animated Film: Studio Course",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Documentary Fictions",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Silkscreen",
+    "Department": "VES",
+    "Time": "10:00 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " North American Seacoasts and Landscapes, Discovery to Present: Seminar",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " History and Philosophy of Media",
+    "Department": "VES",
+    "Time": "11:00 a.m. - 12:59 p.m."
+  },
+  {
+    "Name": " The Cinema of Frederick Wiseman I: Towards a Visual Anthropology of Institutions and Power",
+    "Department": "VES",
+    "Time": "12:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Fortunes of a Genre: The Western",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Directed Research: Studio Course",
+    "Department": "VES",
+    "Time": "6:00 p.m. - 8:59 p.m."
+  },
+  {
+    "Name": " One Thing Leads to Another: Introduction to Painting",
+    "Department": "VES",
+    "Time": " 10:00 a.m. - 12:59 p.m.;  3:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Introduction to Still Photography",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Introduction to Still Photography",
+    "Department": "VES",
+    "Time": "9:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Introduction to Non Fiction Filmmaking",
+    "Department": "VES",
+    "Time": " 1:00 p.m. - 3:59 p.m.;  1:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Introduction to Non Fiction Videomaking",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Fundamentals of Animation",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Maya and Multi Media",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Fiction in the Flesh: Studio Course",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " On Objects: A Studio Course in Sculpture, Video and Performance",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " The Devil, Probably x 8 + 1: A Studio-based Seminar",
+    "Department": "VES",
+    "Time": "1:00 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Intermediate Vietnamese",
+    "Department": "VIETNAM",
+    "Time": " 2:00 p.m. - 3:59 p.m.;  4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Advanced Vietnamese",
+    "Department": "VIETNAM",
+    "Time": "4:00 p.m. - 5:59 p.m."
+  },
+  {
+    "Name": " Advanced-High Vietnamese",
+    "Department": "VIETNAM",
+    "Time": "2:30 p.m. - 3:59 p.m."
+  },
+  {
+    "Name": " Elementary Vietnamese",
+    "Department": "VIETNAM",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Introduction to Modern Welsh",
+    "Department": "WELSH",
+    "Time": " 1:00 p.m. - 1:59 p.m.;  1:00 p.m. - 1:59 p.m.;  1:00 p.m. - 1:59 p.m.;  10:00 a.m. - 10:59 a.m."
+  },
+  {
+    "Name": " Who Run the World?\" Feminism in the Age of Empire",
+    "Department": "WOMGEN",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Psychology of the Gendered Body",
+    "Department": "WOMGEN",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Gender and Fandom",
+    "Department": "WOMGEN",
+    "Time": "12:00 p.m. - 12:59 p.m."
+  },
+  {
+    "Name": " A Voice of One's Own: Creative Writing in Women, Gender, and Sexuality",
+    "Department": "WOMGEN",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Can We Talk? Jewish Women and Humor",
+    "Department": "WOMGEN",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Gender, Violence, and Power",
+    "Department": "WOMGEN",
+    "Time": "1:00 p.m. - 2:59 p.m."
+  },
+  {
+    "Name": " Disability and Sexuality",
+    "Department": "WOMGEN",
+    "Time": "5:00 p.m. - 6:59 p.m."
+  },
+  {
+    "Name": " Hysterical Women: A History",
+    "Department": "WOMGEN",
+    "Time": "3:00 p.m. - 4:59 p.m."
+  },
+  {
+    "Name": " Exploring Race, Gender, and Sexuality in Historical Art and Visual Culture",
+    "Department": "WOMGEN",
+    "Time": "11:00 a.m. - 11:59 a.m."
+  },
+  {
+    "Name": " Elementary Yiddish",
+    "Department": "YIDDISH",
+    "Time": "9:00 a.m. - 9:59 a.m."
+  },
+  {
+    "Name": " Intermediate Yiddish I",
+    "Department": "YIDDISH",
+    "Time": "11:00 a.m. - 12:29 p.m."
+  },
+  {
+    "Name": " Advanced Yiddish I",
+    "Department": "YIDDISH",
+    "Time": "1:00 p.m. - 2:29 p.m."
+  }
+]
