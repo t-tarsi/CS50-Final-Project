@@ -24,7 +24,7 @@ $(document).ready(function() {
 
     $.getJSON("/concentrations", function(data) {
         color_info = getColors(Object.keys(data).length, "0.8");
-        colors=color_info
+        colors=color_info;
         var myDoughnutChart = new Chart(document.getElementById("studentPieChart"), {
             type: 'doughnut',
             data: {
