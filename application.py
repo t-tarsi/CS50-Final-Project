@@ -3,7 +3,10 @@ from flask import Flask, flash, redirect, render_template, request, session, jso
 from flask_session import Session
 from tempfile import mkdtemp
 from werkzeug.exceptions import default_exceptions
-import json
+import json, csv, pandas
+import colour
+import numpy as np
+import collections
 
 from helpers import apology
 
@@ -19,8 +22,6 @@ if app.config["DEBUG"]:
         response.headers["Pragma"] = "no-cache"
         return response
 
-# Custom filter
-
 # Configure session to use filesystem (instead of signed cookies)
 app.config["SESSION_FILE_DIR"] = mkdtemp()
 app.config["SESSION_PERMANENT"] = False
@@ -34,10 +35,24 @@ def index():
 
 
 @app.route("/coursetimes", methods=["GET"])
-def data():
-    with open("scrapers/year2016.json") as json_data:
+def coursetimes():
+    with open("scrapers/new_coursetimes.json") as json_data:
+        d = json.load(json_data, object_pairs_hook=collections.OrderedDict)
+    return json.dumps([d])
+
+
+@app.route("/concentrations", methods=["GET"])
+def concentrations():
+    with open("data/StudentConcentrations.json") as json_data:
         d = json.load(json_data)
     return jsonify(d)
+
+
+@app.route("/AthleteConcentrations", methods=["GET"])
+def athleteConcentrations():
+    with open("scrapers/A_Concentrations.json") as json_data:
+        f = json.load(json_data)
+    return jsonify(f)
 
 
 @app.route("/about", methods=["GET"])
@@ -48,6 +63,14 @@ def about():
 @app.route("/team", methods=["GET"])
 def team():
     return render_template("team.html")
+
+
+@app.route("/color", methods=["GET"])
+def colorRange():
+    red = colour.Color("red")
+    blue = colour.Color("blue")
+    return "hi"
+
 
 
 def errorhandler(e):

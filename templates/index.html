@@ -8,26 +8,27 @@
     {% block javascript %}
         <script src="/static/scripts.js"></script>
     {% endblock %}
-    <div class="container A" id="A">
-        <div class="row">
+    <div class="A" id="A">
+        <div>
             <h2>Student Concentrations vs. Student-Athlete Concentrations</h2>
         </div>
         <div class="row">
-            <table>
-                <tr>
-                    <td>
-                        <canvas id="studentPieChart"></canvas>
-                    </td>
-                    <td>
-                        <canvas id="athletePieChart"></canvas>
-                    </td>
-                </tr>
-            </table>
+            <!--<div class="col-md-1">-->
+            <!--    <canvas id="firstlabel"></canvas>-->
+            <!--</div>-->
+            <div class="col-md-6">
+                <canvas id="studentPieChart"></canvas>
+            </div>
+            <div class="col-md-6">
+                <canvas id="athletePieChart"></canvas>
+            </div>
         </div>
     </div>
 
-    <div class="container B" id="B">
-        <div class="row">
+    <hr>
+
+    <div class="B" id="B">
+        <div>
             <h2>Concentration Data</h2>
         </div>
         <div>
