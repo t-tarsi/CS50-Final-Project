@@ -33,9 +33,9 @@ def index():
     return render_template("index.html")
 
 
-@app.route("/data", methods=["GET"])
+@app.route("/coursetimes", methods=["GET"])
 def data():
-    with open("scrapers/data.json") as json_data:
+    with open("scrapers/Fall2016.txt") as json_data:
         d = json.load(json_data)
     return jsonify(d)
 
