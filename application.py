@@ -3,9 +3,7 @@ from flask import Flask, flash, redirect, render_template, request, session, jso
 from flask_session import Session
 from tempfile import mkdtemp
 from werkzeug.exceptions import default_exceptions
-import json, csv, pandas
-import colour
-import numpy as np
+import json
 import collections
 
 from helpers import apology
