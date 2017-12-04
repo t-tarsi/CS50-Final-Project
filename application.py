@@ -35,7 +35,7 @@ def index():
 
 @app.route("/coursetimes", methods=["GET"])
 def data():
-    with open("scrapers/Fall2016.txt") as json_data:
+    with open("scrapers/year2016.json") as json_data:
         d = json.load(json_data)
     return jsonify(d)
 
