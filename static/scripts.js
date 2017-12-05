@@ -21,7 +21,7 @@ $(document).ready(function() {
         return color_info;
     }
 
-
+    var myDoughnutChart;
     $.getJSON("/concentrations", function(data) {
         color_info = getColors(Object.keys(data).length, "0.8");
         colors=color_info;
@@ -36,12 +36,21 @@ $(document).ready(function() {
                 },
             options: {
                 legend: {
+                    display: false,
+                    // position: "left",
+                    // fontSize: 6
+                },
+                responsive: true,
+                title: {
                     display: true,
-                    position: "bottom"
-                }
+                    text:'Student Concentrations',
+                    fontSize: 20
+                },
             }
         });
     });
+
+
 
     $.getJSON("/AthleteConcentrations", function(data) {
         color_info = colors;
@@ -56,8 +65,13 @@ $(document).ready(function() {
             },
             options: {
                 legend: {
+                    display: false
+                },
+                responsive: true,
+                title: {
                     display: true,
-                    position: "bottom"
+                    text:'Athlete Concentrations',
+                    fontSize: 20
                 }
             }
         });

@@ -57,67 +57,15 @@ button:hover, button>a:hover {
   filter: brightness(90%);
 }
 
-.btn {
-    display: inline-block;
-    padding: 6px 12px;
-    margin-bottom: 0;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 1.42857143;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
-    -ms-touch-action: auto;
-    touch-action: auto;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    background-image: none;
-    border: 1px solid transparent;
-    border-radius: 4px;
-}
-
-.container.A {
-    background-color: #f0f0f0;
-    min-height: 100%;
-    min-width: 100%;
-    padding: 50px;
-    text-align: center;
-    margin-right: auto;
-    margin-left: auto;
-    box-sizing: border-box;
-}
-
-.container.B {
-    min-height:100%;
-    min-width: 100%;
-    text-align: center;
-    padding: 50px;
-}
-
-.container.start {
-    margin-right: 0px;
-    margin-left: 0px;
-    padding-right: 0px;
-    padding-left: 0px;
-    max-width: 1000px;
-}
-
-.selectSection {
-    margin: 20px 0;
-}
-
-.btn-group {
-  display: inline-block;
-  margin: 0 auto;
-}
-
-.filterType {
-  margin: 5px 0
-}
-
 .centered {
   text-align: center;
+}
+
+.B, .A {
+    padding: 50px;
+}
+
+.resize {
+    width: auto;
+    height: 300px;
 }
