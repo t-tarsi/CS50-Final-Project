@@ -53,6 +53,11 @@ def athleteConcentrations():
     return jsonify(f)
 
 
+@app.route("/data", methods=["GET"])
+def data():
+    return render_template("data.html")
+
+
 @app.route("/about", methods=["GET"])
 def about():
     return render_template("about.html")
@@ -61,14 +66,6 @@ def about():
 @app.route("/team", methods=["GET"])
 def team():
     return render_template("team.html")
-
-
-@app.route("/color", methods=["GET"])
-def colorRange():
-    red = colour.Color("red")
-    blue = colour.Color("blue")
-    return "hi"
-
 
 
 def errorhandler(e):
