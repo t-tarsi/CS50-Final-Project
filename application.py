@@ -34,7 +34,7 @@ def index():
 
 @app.route("/coursetimes", methods=["GET"])
 def coursetimes():
-    with open("scrapers/new_coursetimes.json") as json_data:
+    with open("data/new_coursetimes.json") as json_data:
         d = json.load(json_data, object_pairs_hook=collections.OrderedDict)
     return json.dumps([d])
 

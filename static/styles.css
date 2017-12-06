@@ -69,3 +69,7 @@ button:hover, button>a:hover {
     width: auto;
     height: 300px;
 }
+
+.aboutpage {
+    padding: 100px;
+}
