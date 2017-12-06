@@ -5,8 +5,30 @@
 {% endblock %}
 
 {% block main %}
-
-
-<!-- HTML Goes here. Delete this when done. -->
-
+    <img alt="{{ top }}" class="border" src="http://memegen.link/custom/{{ top | urlencode }}/{{ bottom | urlencode }}.jpg?alt=https://i.imgur.com/CsCgN7Ll.png"/>
+    <div class="row">
+        <div class="row">
+            <div class="col-lg-12">
+                <h3 class="text-primary"> The Question</h3>
+                <p>Harvard Athletes play a major role in life at Harvard. Roughly 20% of the student body are athletes,
+                and many more engage in club sports. Make no mistake, being an athelete is a major time commitment.
+                Whether it be team lifts, team runs, team meetings, film study, practice, etc, athletics will find a way
+                to take time up in an athlete's day. This causes many time conflicts with office hours, lectures, and sections.
+                Many of which are either mandatory or not online. This raises the question: Do student-athletes
+                have a larger presence in certain concentrations? If this is the case, is it due to the fact that many
+                athletes have time commitments that interfere with their ability to concentrate in certain concentrations?
+                Being atheletes ourselves, this question seems to be one worth answering.</p>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <h3 class="text-success">The Framework</h3>
+            <p> We used data from the Harvard Open Data Project which gave us
+               the concentration splits for undergraduate students at Harvard. We then formulated a data scraping
+               algorithm to go on the Harvard athletic websites and retrieve the concentration data for the athletes.
+               We also obtained all the times for concentration-specific classes and over-layed them with the concentration
+               data we retrieved from the athletic websites. Using Charts.js to make an interactive website, we hope to provide
+               the framework one needs to answer the question.
+               </p>
+        </div>
+    </div>
 {% endblock %}
