@@ -12,19 +12,18 @@ Our About page on our website gives more insight on our project. It describes wh
 student athletes concentrate more heavily in certain concentrations, and if so, is it because of time constraints on courses. It also describes
 how we formulated the website and how we are giving the framework needed for one to answer the question.
 
-Our Team page just gives an introduction to each of our team members and has a bio about each of us. It has pictures of each of
+Our Team page gives an introduction to each of our team members and has a bio about for of us. It has pictures of each of
 us and a link to our respective pages on GoCrimson.
 
 Our Raw Data page has our data in 2 HTML tables. We used a JSON file and transferred it to a pandas dateframe. Then, in python,
-we converted the dataframe to an HTML table, and copy and pasted the table into our HTML template.
+we converted the dataframe to an HTML table, and copy and pasted the table into our HTML template. We thought it was important to include this data, because (to our knowledge) it has never been studied before. (besides the Harvard Open Data Project full student population concentrations)
 
-The Homepage shows the data visualization and is an interactive website. To create the data visualization, we used charts.js which
-is a JavaScript library used to create visualization. We have two donut charts. The one on the left has every department and the
-number of students concentrating in that concentration. The donut chart on the right is the same thing but for student-athletes.
-
+The Homepage shows the data visualization and is interactive. To create the data visualization, we used Charts.js which
+is a JavaScript library used to create charts and other data visualization. We have two donut charts: the one on the left has every concentration and the
+number of students committed to that concentration. The donut chart on the right is the same thing but for student-athletes.
 
 To obtain the data, we used a data scraping algorithm to go through each athletic website and retrieve the concentration data
-for each athlete on each team. We also used a data scraping algorithm to get data for every course time from the registar.
+for each athlete on each team. We also used a data scraping algorithm to get data for every course time from the registar. Please read more about these implementation details in our "DESIGN.md" file.
 
 
 Our final presentation can be seen at: https://www.youtube.com/watch?v=y_JjeK6I0P8&feature=youtu.be
