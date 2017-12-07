@@ -70,6 +70,27 @@ def data():
     #         "Athlete Concentrators": AthleteConcentrators
     # })
     # raw_data.to_html("data.html")
+
+    # with open("data/new_coursetimes.json") as json_data:
+    #      f = json.load(json_data)
+    # depts = []
+    # numCourses = []
+    # times= []
+    # for key in f:
+    #     times_temp = list(f[key].keys())
+    #     numCourses_temp = list(f[key].values())
+    #     for i in range(23):
+    #         depts.append(key)
+    #     for i in numCourses_temp:
+    #         numCourses.append(i)
+    #     for i in times_temp:
+    #         times.append(i)
+    # raw_data = pd.DataFrame({
+    #     "Department": depts,
+    #     "Times": times,
+    #     "Number of Courses": numCourses
+    # })
+    # raw_data.to_html("rawdata.html")
     return render_template("data.html")
 
 
