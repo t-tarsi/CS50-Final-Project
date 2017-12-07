@@ -1,6 +1,3 @@
-For designing our about and team page, we used Bootsrap 4. We used this because we thought that Bootstrap's grid component would be
-really useful for creating our pages. The 12-column grid would be helpful in putting the pictures next to our bios.
-
 For our data scraping algorithm, we used Beautiful Soup which is a Python library which allows us to get data from HTML files.
 For conscrape.py, which allowed us to get the concentrations of each athlete, we first created a list to store URLs for each roster
 page.
@@ -16,3 +13,6 @@ The second display is a multi-line graph that shows the distribution of courseti
 To summarize, we looped through all of the course data, tracked each coursetime and department, reformatted the coursetimes to be in order, then looped through the data again and added 1 to our dictionary for each department's course at a given time. We ended with a python dictionary with keys being departments, each department had a list of coursetimes, and the number of coursetimes for that timeslot.
 
 Then in JavaScript (in our "static/scripts.js" file), we took this data and used the keys (departments) as label items. For each department we used the keys (coursetimes) as the x-axis labels and the values (number of courses) as the y-axis values. We used a multi-line chart so that every department can be seen. The default, however, is that none are shown. Simply click on a department to see it's distribution of coursetimes.
+
+For designing our about and team page, we used Bootstrap 4. We used this because we thought that Bootstrap's grid component would be
+very useful and aesthetically pleasing our pages. The 12-column grid was helpful for both the bio page and the about page.
