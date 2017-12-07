@@ -26,12 +26,13 @@ app.config["SESSION_PERMANENT"] = False
 app.config["SESSION_TYPE"] = "filesystem"
 Session(app)
 
-
+# Main page
 @app.route("/", methods=["GET"])
 def index():
     return render_template("index.html")
 
 
+# Route to pass JSON data for coursetimes
 @app.route("/coursetimes", methods=["GET"])
 def coursetimes():
     with open("data/new_coursetimes.json") as json_data:
@@ -39,6 +40,7 @@ def coursetimes():
     return json.dumps([d])
 
 
+# Route to pass concentration data for all students
 @app.route("/concentrations", methods=["GET"])
 def concentrations():
     with open("data/StudentConcentrations.json") as json_data:
@@ -46,6 +48,7 @@ def concentrations():
     return jsonify(d)
 
 
+# Route to pass concentration data for student-athletes
 @app.route("/AthleteConcentrations", methods=["GET"])
 def athleteConcentrations():
     with open("data/A_Concentrations.json") as json_data:
@@ -53,16 +56,19 @@ def athleteConcentrations():
     return jsonify(f)
 
 
+# Route for the rawdata page
 @app.route("/data", methods=["GET"])
 def data():
     return render_template("data.html")
 
 
+# Route for the about page
 @app.route("/about", methods=["GET"])
 def about():
     return render_template("about.html")
 
 
+# Route for the team page
 @app.route("/team", methods=["GET"])
 def team():
     return render_template("team.html")
