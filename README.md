@@ -16,6 +16,9 @@ about how we formulated the website and how we are giving the framework needed f
 Our Team page just gives a little introduction to each of our team members and tells a little about them. It has pictures of each of
 us and a link to our respective athlete pages.
 
+Our Raw Data page has our data in 2 HTML tables. We used a JSON file and transferred it to a pandas dateframe. Then, in python,
+we converted the dataframe to an HTML table, and then copy and pasted the table into our HTML template.
+
 
 The Homepage shows the data visualization and is an interactive website. To create the data visualization, we used charts.js which
 is a JavaScript library used to create visualization. We have two donut charts. The one on the left has every department and the
