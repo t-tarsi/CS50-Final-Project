@@ -4,7 +4,8 @@ time on the course catalog site; this was the easier of the two to implement bec
 all of the data we were looking for. The only exceptions to this were that we had to change the url after scraping every 100
 classes because the page had a cap of displaying only 500 results at a time (this was easy to change in the url though) and
 then I manually went in and entered different urls for different semesters (i.e. Spring 2017, Fall 2016, etc.) (we wound up
-scraping all of this and the files are in the data template but we didn't use it in our final visualizations). We also had to
+scraping all of the course information from Fall 2016 through Spring 2018 and the files are in the data.html template and data
+folder, but we only used the course data from Fall 2016 and Spring 2017 to ensure more robust final visualizations). We also had to
 implement lines of code which would take into account classes that had multiple meeting times as well as classes that didn't
 have times listed (to skip these). Overall, our data output was a JSON file which listed every class name, times meeting and
 the department it was in.
