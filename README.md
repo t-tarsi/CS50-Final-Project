@@ -1,12 +1,9 @@
 # CS50-Final-Project
 CS50 Final Project for Tyler Tarsi, Aaron Kruk, and LJ Barlow.
 
-Concentration data taken from Harvard Open Data Project. Link: https://github.com/Harvard-Open-Data-Project/harvard-data/blob/master/concentrations-and-class-enrollment/Concentration%20Data.csv
-
-HTML/Flask Skeleton taken from CS50 Finance.
-
-Used Charts.js and modified it to have a more viewer friendly legend.
-
+For our project, we sought out data on the underrepresentation of student-athletes (vs. non-athletes) in certain concentrations.
+To do this we looked a coursetimes for every course in the Harvard Registrar. We believe that coursetimes may have an influence on students concentration selection, as most athletes are busy during the 3pm-6pm timeslot.
+Then, we created a framework for analyzing this data through visualization.
 
 Our About page on our website gives more insight on our project. It describes what we are trying to answer: the question of whether or not
 student athletes concentrate more heavily in certain concentrations, and if so, is it because of time constraints on courses. It also describes
@@ -27,3 +24,9 @@ for each athlete on each team. We also used a data scraping algorithm to get dat
 
 
 Our final presentation can be seen at: https://www.youtube.com/watch?v=y_JjeK6I0P8&feature=youtu.be
+
+Concentration data taken from Harvard Open Data Project. Link: https://github.com/Harvard-Open-Data-Project/harvard-data/blob/master/concentrations-and-class-enrollment/Concentration%20Data.csv
+
+HTML/Flask Skeleton taken from CS50 Finance.
+
+Used Charts.js and modified it to have a more viewer friendly legend.
