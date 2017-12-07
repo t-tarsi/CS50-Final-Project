@@ -9,10 +9,12 @@ Our About page on our website gives more insight on our project. It tells about 
 student athletes concentrate more heavily in certain concentrations, and if so, is it because of time constraints. It also tells
 about how we formulated the website and how we are giving the framework needed for one to answer the question.
 
-Our Team page just gives a little introduction to each of our team members and tells a little about them.
+Our Team page just gives a little introduction to each of our team members and tells a little about them. It has pictures of each of
+us and a link to our respective athlete pages.
 
 The Homepage shows the data visualization and is an interactive website. To create the data visualization, we used charts.js which
-is a JavaScript library used to create visualization.
+is a JavaScript library used to create visualization. We have two donut charts. The one on the left has every department and the
+number of students concentrating in that concentration. The donut chart is the same thing but for student-athletes.
 
 To obtain the data, we used a data scraping algorithm to go through each athletic website and retrieve the concentration data
 for each athlete on each team. We also used a data scraping algorithm to get data for every course time from the registar.
