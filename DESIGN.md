@@ -25,7 +25,7 @@ concentrations (undeclared sophomores, freshmen).
 For the raw data tab, we executed the same procedure for both data sets. We first read in JSON data to python. Then we took
 the JSON data, looped through it and stored it as lists. Then we converted those lists into a Pandas dataframe, and
 outputted that data frame as an HTML table using the pandas.to_html method. Then we took that table and placed it into our
-original html templates. This is why our raw data template is so large (it has every data point from the original JSON data).
+original html template (data.html). This is why our raw data template is so large (it has every data point from the original JSON data).
 But it displays nicely, and we thought it was important to include because to our knowledge, this data has never been
 studied before.
 
@@ -37,12 +37,16 @@ The first two charts are donut charts displaying the proportion of athletes and 
 For the non-athlete data, we used Harvard Open Data Project's publicly available concentration data. For the athlete data, we
 used the data from our web scraper (see above). We used the "$.getJSON" function to grab our data in each instance. (We had
 set up routes to pass the necessary data for each chart. The routes are "/concentrations" for all students and
-"/AthleteConcentrations" for athletes)
+"/AthleteConcentrations" for athletes). For the athlete concentration data, we manually reformatted it to match the format of the HODP data.
+So, we made sure every concentration had a key, whether or not that concentration had a non-zero value.
+In order to make sure that each concentration was represented by the same color in both charts, we needed to declare a colors array
+in scripts.js. The colors are for each concentration are then randomized and saved to this array. In turn, this array is used
+for the color option of both donut charts, ensuring that the colors match.
 
 The second display is a multi-line graph that shows the distribution of coursetimes for each Department. In order to display
 the data how we wanted, we needed to reformat it from its original form. This method can be seen in
-"scrapers/reformat_coursetimes.py". To summarize, we looped through all of the course data, tracked each coursetime and
-department, reformatted the coursetimes to be in order, then looped through the data again and added 1 to our dictionary
+"scrapers/reformat_coursetimes.py" (this was originally implemented as an iPython notebook). To summarize, we looped through all of the course data, tracked each coursetime and
+department, reformatted the coursetimes to be in order, then looped through the data again and incremented our counter by 1 to our dictionary
 for each department's course at a given time. We ended with a python dictionary with keys being departments, each department
 had a list of coursetimes, and the number of coursetimes for that timeslot.
 
@@ -51,8 +55,7 @@ each department we used the keys (coursetimes) as the x-axis labels and the valu
 We used a multi-line chart so that every department can be seen. The default, however, is that none are shown. Simply click
 on a department to see it's distribution of coursetimes.
 
-We also borrowed a randomized color function borrowed from StackOverflow. Here is the link:
-https://stackoverflow.com/questions/45771849/chartjs-random-colors-for-each-part-of-pie-chart-with-data-dynamically-from-data
+We also borrowed a randomized color function from StackOverflow. Here is the link: https://stackoverflow.com/questions/45771849/chartjs-random-colors-for-each-part-of-pie-chart-with-data-dynamically-from-data
 
 For designing our about and team page, we used Bootstrap 4. We used this because we thought that Bootstrap's grid component
 would be very useful and aesthetically pleasing our pages. The 12-column grid was helpful for both the bio page and the about
