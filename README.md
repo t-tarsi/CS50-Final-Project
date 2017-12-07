@@ -21,6 +21,8 @@ number of students committed to that concentration. The donut chart on the right
 Our other chart is a multi-line graph, with the ability to select any department. When a department is selected, the distribution
 of coursetimes (start times) for that department are displayed on the graph below. Any number of departments can be selected at
 a given time. It is most useful, however, when viewing 1-2 departments at a time and noting their respective distributions.
+Occasionally, the JavaScript glitches and either the colors are not uniform between charts, or one of the graphs is grey. If this
+happens, please refresh the page.
 
 To obtain the data, we used a data scraping algorithm to go through each athletic website and retrieve the concentration data
 for each athlete on each team. We also used a data scraping algorithm to get data for every course time from the registar.
