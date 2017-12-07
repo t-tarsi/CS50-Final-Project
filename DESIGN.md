@@ -1,3 +1,8 @@
+DESIGN:
+
+This file details our implementation and design for our entire project, including our web scrapers, our python data manipulation,
+our JavaScript functionality, visualization, and libraries.
+
 For our data scraping scripts, we used Beautiful Soup 4 which is a Python library used to parse HTML files and scrape data
 from them. We wound up implementing two separate scraping scripts, the first being for every course name, department and
 time on the course catalog site; this was the easier of the two to implement because there was only a single page which had
