@@ -18,15 +18,29 @@ we converted the dataframe to an HTML table, and copy and pasted the table into 
 The Homepage shows the data visualization and is interactive. To create the data visualization, we used Charts.js which
 is a JavaScript library used to create charts and other data visualization. We have two donut charts: the one on the left has every concentration and the
 number of students committed to that concentration. The donut chart on the right is the same thing but for student-athletes.
+Our other chart is a multi-line graph, with the ability to select any department. When a department is selected, the distribution
+of coursetimes (start times) for that department are displayed on the graph below. Any number of departments can be selected at
+a given time. It is most useful, however, when viewing 1-2 departments at a time and noting their respective distributions.
 
 To obtain the data, we used a data scraping algorithm to go through each athletic website and retrieve the concentration data
-for each athlete on each team. We also used a data scraping algorithm to get data for every course time from the registar. Please read more about these implementation details in our "DESIGN.md" file.
+for each athlete on each team. We also used a data scraping algorithm to get data for every course time from the registar.
+Please read more about these implementation details in our "DESIGN.md" file.
+
+We believe that this data can be very useful for the Harvard Athletic department in understanding the disparity between
+athletes and non-athletes at Harvard, so we plan on continuing our work on this concept during J-term and presenting
+our work to the athletic department.
 
 
 Our final presentation can be seen at: https://www.youtube.com/watch?v=y_JjeK6I0P8&feature=youtu.be
+
+
+
+Resources:
 
 Concentration data taken from Harvard Open Data Project. Link: https://github.com/Harvard-Open-Data-Project/harvard-data/blob/master/concentrations-and-class-enrollment/Concentration%20Data.csv
 
 HTML/Flask Skeleton taken from CS50 Finance.
 
 Used Charts.js and modified it to have a more viewer friendly legend.
+
+Randomized color functions borrowed from https://stackoverflow.com/questions/45771849/chartjs-random-colors-for-each-part-of-pie-chart-with-data-dynamically-from-data
