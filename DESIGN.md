@@ -5,6 +5,7 @@ For our data scraping algorithm, we used Beautiful Soup which is a Python librar
 For conscrape.py, which allowed us to get the concentrations of each athlete, we first created a list to store URLs for each roster
 page.
 
+For the raw data tab, we executed the same procedure for both data sets. We first read in JSON data to python. Then we took the JSON data, looped through it and stored it as lists. Then we converted those lists into a Pandas dataframe, and outputted that data frame as an HTML table using pandas.to_html method. Then we took that table and placed it into our original html templates. This is why our raw data template is so large (it has every data point from the original JSON data). But it displays nicely, and we thought it was important to include because to our knowledge, this data has never been studied before.
 
 For the data visualization, we primarily used Charts.js, a JavaScript library used for creating charts and other visualizations.
 We modified Charts.js slightly: when a legend item was deselected, previously it would display as red. This was not visually appealing, so we changed it to display as grey when deselected.
