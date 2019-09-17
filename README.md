@@ -1,4 +1,4 @@
-# CS50-Final-Project
+# cs50 final project
 CS50 Final Project for Tyler Tarsi, Aaron Kruk, and LJ Barlow.
 
 For our project, we sought out data on the underrepresentation of student-athletes (vs. non-athletes) in certain concentrations.
